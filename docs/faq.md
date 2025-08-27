@@ -1,75 +1,89 @@
-View3Labs | Frequently Asked Questions ❓ 
-                                                                                                                                                                                                                                                                                                                  What is View3Labs? 🧠 
-View3Labs is a Web3 design studio building creative IP across NFTs, animation, AR, gaming, and immersive media — blending digital culture with ecological ethics.
+# View3Labs – Community FAQ 🌱
 
-What makes View3Labs different? 🌐 
-We combine:
+Welcome to the View3Labs community!  
+Here are answers to some of the most common questions about our project, NFTs, and token.
 
-High-quality NFT products with real utility
+---
 
-Long-term storytelling and IP-building
+## 🚀 Project Basics
 
-Tokenized governance and rewards
+**What is View3Labs?**  
+View3Labs is a Web3 creative studio and IP incubator. We design story-rich projects, utility-driven NFTs, and regenerative impact initiatives.  
 
-A regenerative ecosystem — 20% of net revenue goes to ecological and social impact
+**What makes View3Labs different?**  
+We combine Web3 tech, creative storytelling, and cultural impact. Plus, **20% of our studio revenue goes to ecological and social causes** — guided by community DAO voting.  
 
-What are the 888 Founder Tokens? 🎟️
-The 888 Founder NFTs are Genesis tokens that unlock:
+---
 
-Early $V3 token access
+## 🎟️ Founder NFTs
 
-Exclusive community channels
+**What are the 888 Founder NFTs?**  
+They’re limited-edition passes that give holders:  
+- Early access to projects  
+- Exclusive rewards & utilities  
+- DAO voting rights on impact decisions  
 
-Governance rights
+**Will there be OG spots?**  
+Yes! We’re offering **88 OG spots** for early supporters and collaborators.  
 
-Creative licensing rights
+**How do OG spots work?**  
+OGs will either mint for free or at a reduced price, depending on community vote and launch strategy.  
 
-IRL + digital experiences
+---
 
-Claimable rewards over time
+## 💰 $V3 Token
 
-What is the $V3 token? 💰 
-$V3 is the studio’s ecosystem token. It powers:
+**What is the $V3 token?**  
+$V3 is the ecosystem token that powers utilities, rewards, and governance across View3Labs projects.  
 
-Governance voting
+**When does $V3 launch?**  
+Not immediately. First, we’re launching the **Founder NFTs (888)** and **our first studio project**. $V3 will follow after strategic planning and fundraising.  
 
-Access to reward pools and bounties
+---
 
-Claimable by Founder Token holders
+## 🌍 Regenerative Impact
 
-A fixed supply (no inflation)
+**How does View3Labs support the planet?**  
+We dedicate **20% of net studio revenue** to ecological and social causes.  
+Holders can vote on where funds go via DAO governance.  
 
-What’s the token allocation breakdown? 🎯 
-Allocation AreaPercentage
-Public / Investor Sale30%
-Ecosystem & Donations20%
-Treasury Reserve20%
-Team & Advisors20%
-Community Rewards5%
-Founder NFT Claim Pool5%
+**Can I suggest a cause?**  
+Yes — share ideas in the Regenerative Channel on Discord!  
 
-20% directly supports biodiversity, climate, and human well-being initiatives. 💚 
+---
 
-How do I verify to access token-holder channels? 🪙 
-Go to #🧩 verify
+## 🔐 Safety & Trust
 
-Connect your wallet using Collab.Land
+**Where do I find official links?**  
+Always use our **Linktree**:  
+👉 [Official Links](https://yourlinktree.com/view3labs)  
 
-If you hold a Founder Token or $V3, roles will be auto-assigned!
+**How do I avoid scams?**  
+- Never trust random DMs  
+- Only click links from official channels  
+- Bookmark our Linktree & ENS domain (`view3labs.eth`)  
 
-Can I contribute to the studio? 🎨 
-Yes! We’re building with artists, developers, storytellers, and culture shapers. Visit #creative-hub and say hello or DM a mod.
+---
 
-How does the ecosystem donation work? 🌍 
-We’ve committed 20% of studio net revenue to impact:
+## 📅 Roadmap Highlights
 
-Rewilding & biodiversity
+- ✅ Community building  
+- 🟨 Founder NFT launch (888)  
+- 🟨 First studio project release  
+- ⬜ $V3 token launch & ecosystem expansion  
 
-Climate action projects
+---
 
-Creative education and human well-being
+## 🤝 Join Us
 
-Proposals and donations will be transparent and community-voted.
+**How can I join?**  
+- Official links [Website] (https://view3labs.com/links)  
+- Apply for OG spots via our claim form  
 
-Where can I learn more? 🧾 
-[http://view3labs.com/links]
+**How can I contribute?**  
+Help us grow the community, share the vision, and spread the word about regenerative Web3.  
+
+---
+
+💡 *Have a question not covered here?*  
+Drop it in our **Support Channel** on Discord!
