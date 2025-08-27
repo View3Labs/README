@@ -1,0 +1,43 @@
+# View3Labs Smart Contracts
+
+Smart contract repo for the **View3Labs ecosystem**, including the `$V3` token and **888 Founder NFTs**.  
+This repo is public to ensure transparency, security, and community trust.
+
+---
+
+## 📌 Overview
+
+View3Labs is a **web3-native creative studio** building story-rich IP, tokenized media, and regenerative impact systems.  
+Our contracts power:
+
+- **$V3 Token** → Fixed supply, governance & utility  
+- **888 Founder NFTs** → Governance rights, token claims, and ecosystem access  
+- **Treasury Logic** → Automatic allocations for ecosystem growth + ecological impact  
+
+---
+
+## ⚙️ Tech Stack
+
+- **Solidity** (Ethereum smart contracts)  
+- **Hardhat** (development framework)  
+- **OpenZeppelin** (battle-tested security libraries)  
+- **Ethers.js** (interaction + testing)  
+
+---
+
+## 📂 Repo Structure
+
+- **contracts/ # Solidity smart contracts
+- **V3Token.sol
+- **FounderNFT.sol
+- **Treasury.sol
+
+- **test/ # Placeholder unit tests (Hardhat)
+- **V3Token.test.js
+- **FounderNFT.test.js
+- **Treasury.test.js
+
+scripts/ # Example deployment scripts
+deploy.js
+
+README.md # This file
