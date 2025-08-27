@@ -50,12 +50,13 @@
 
 ---
 
-## 🧭 Roadmap (2025–2026)
-- ✅ Q1 2025: Tokenomics + Governance finalized  
-- ⏳ Q2 2025: Founder NFT launch (888 supply)  
-- ⏳ Q3 2025: First studio project reveal + drop  
-- ⏳ Q4 2025: Strategic plan for $V3 token (VC + public sale)  
-- ⏳ 2026: Expand ecosystem with IP, AR, digital fashion  
+## 🎟 Founder NFTs — 888 Genesis Tokens
+
+Each token grants:
+- Claimable $V3
+- Governance rights
+- Licensing tools for creative IP
+- Access to IRL and digital experiences
 
 ---
 
