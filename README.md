@@ -41,3 +41,7 @@ This repo is public and open for feedback.
 - Website: [view3labs.com/links](https://view3labs.com/links)  
 
 ---
+
+## Founded by 
+
+- [@jamiebxrns](https://github.com/jamiebxrns)
