@@ -10,8 +10,8 @@ View3Labs merges creative storytelling with blockchain infrastructure to build d
 ---
 
 ## 📖 Key Documents
-- [Litepaper](./Litepaper.md)
-- [Pitch Deck](./docs/pitch-deck)
+- [Litepaper](./litepaper.md)
+- [Pitch Deck](./docs/pitch-deck.md)
 - [Roadmap](./docs/roadmap.md)
 - [Security Policy](./SECURITY.md)
 - [Community Guidelines](./CODE_OF_CONDUCT.md)
