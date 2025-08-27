@@ -1,31 +1,26 @@
 # View3Labs
 
-Building a regenerative Web3 design studio.  
-This repo is the **public home** for our Litepaper, Tokenomics, Roadmap, and Governance docs.
-
-🌐 Website: [view3labs.com/links](https://view3labs.com/links)  
+**A Web3-native creative studio crafting immersive IP, tokenized media, and regenerative ecosystems.**
 
 ---
 
-## Repository Structure
-
-- **pitch-deck/** → Litepaper, roadmap, investment narrative
-- **tokenomics/** → $V3 token model, vesting, founder NFTs
-- **impact/** → Regenerative commitments & reporting
-- **governance/** → DAO structure, proposal template
-- **security/** → Wallet & Discord security practices
-- **assets/** → Shared images, diagrams, infographics
+## 🌍 Vision
+View3Labs merges creative storytelling with blockchain infrastructure to build decentralized, collaborative, and impact-driven futures.
 
 ---
 
-## Key Docs
-- [Litepaper](pitch-deck/summary.md)  
-- [Roadmap](pitch-deck/roadmap.md)  
-- [Tokenomics](tokenomics/tokenomics.md)  
-- [DAO Structure](governance/dao-structure.md)  
-- [Security Strategy](security/wallet-strategy.md)
+## 📖 Key Documents
+- [Litepaper](./Litepaper.md)
+- [Pitch Deck](./docs/pitch-deck)
+- [Roadmap](./docs/roadmap.md)
+- [Security Policy](./SECURITY.md)
+- [Community Guidelines](./CODE_OF_CONDUCT.md)
 
 ---
+
+## 💠 Repos & Contracts
+- [FounderNFT.sol](./contracts/FounderNFT.sol)
+- [V3Token.sol](./contracts/V3Token.sol)
 
 ## Contributing
 
@@ -39,3 +34,10 @@ This repo is public and open for feedback.
 
 - Code: [MIT](LICENSE)  
 - Content (docs, images): © View3Labs – All Rights Reserved  
+
+---
+
+## 🔗 Official Links
+- Website: [view3labs.com/links](https://view3labs.com/links)  
+
+---
