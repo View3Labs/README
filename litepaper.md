@@ -20,6 +20,29 @@ View3Labs is a Web3 creative studio building story-rich IP, tokenized ecosystems
 
 ---
 
+## Product Pillars
+- Interactive Media  
+- Mini-games, mobile apps, gamified experience  
+- Narrative Creation  
+- Short films, character IP, lore-driven contente  
+- Experiential Content)  
+- AR/VR activations, IRL campaigns, phygital storytelling
+- Community Mechanisms
+- DAO governance, token incentives, gated access
+- On-the-Ground Engagement
+- Merch, creator collabs, IRL drops
+
+---
+
+## Regenerative Ecosystem
+20% of net revenue funds: 
+- Biodiversity + rewilding projects  
+- Climate action initiatives  
+- Human Wellbeing + creative access 
+We build with purpose — and code it into the protocol. 
+
+---
+
 ## Roadmap
 See [docs/roadmap.md](./docs/roadmap.md) for rollout details.
 
@@ -34,3 +57,11 @@ See [docs/roadmap.md](./docs/roadmap.md) for rollout details.
 - 10% community + Founder NFT pool  
 
 ---
+
+## Thank you
+Join the future of creative culture — decentralized, ethical, and regenerative.
+
+📡 Official Links: http://view3labs.com/links
+
+---
+
