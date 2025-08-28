@@ -9,7 +9,7 @@ View3Labs merges creative storytelling with blockchain infrastructure to build d
 
 ---
 
-## 📂 Repository Structure
+## 📂 Key Documents
 
 - [Litepaper](litepaper.md)
 - [Roadmap](./docs/roadmap.md)
@@ -18,23 +18,17 @@ View3Labs merges creative storytelling with blockchain infrastructure to build d
 - [Community Guidelines](./CODE_OF_CONDUCT.md)
 - [FAQ](./docs/faq.md)
 - [Contracts](contracts/deploy.js)
-- [Tests](test/) — Placeholder test folder (Hardhat/Foundry setup)
-
-
-## 📖 Key Documents
-- [Litepaper](./litepaper.md)
-- [Pitch Deck](./docs/pitch-deck.md)
-- [Roadmap](./docs/roadmap.md)
-- [Security Policy](./SECURITY.md)
-- [Community Guidelines](./CODE_OF_CONDUCT.md)
+- [Tests](test/) — Placeholder - (Hardhat/Foundry setup)
 
 ---
 
-## 💠 Repos & Contracts
+## 💠 Contracts
 - [FounderNFT.sol](./contracts/FounderNFT.sol)
 - [V3Token.sol](./contracts/V3Token.sol)
 
-## Contributing
+---
+
+## 🌳 Contributing
 
 This repo is public and open for feedback.  
 - Use **Issues** for bugs or questions  
@@ -46,11 +40,6 @@ This repo is public and open for feedback.
 
 - Code: [MIT](LICENSE)  
 - Content (docs, images): © View3Labs – All Rights Reserved  
-
----
-
-## 📅 Roadmap
-Check out our [View3Labs Rollout Timeline](roadmap.md).
 
 ---
 
