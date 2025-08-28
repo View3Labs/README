@@ -1,4 +1,4 @@
-# View3Labs Litepaper (Public Summary)
+# 🚀 View3Labs Litepaper (Public Summary)
 
 **A Web3-native creative studio crafting immersive IP, tokenized media, and regenerative ecosystems.**
 
