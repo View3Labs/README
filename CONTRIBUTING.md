@@ -1,4 +1,4 @@
-# Contributing Guidelines
+# 🌳 Contributing Guidelines
 
 Welcome to View3Labs! 🚀  
 We’re building a Web3-native creative studio with transparency, collaboration, and impact.  
