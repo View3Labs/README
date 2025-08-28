@@ -1,4 +1,4 @@
-# View3Labs Litepaper 👑
+# 💎 View3Labs Litepaper
 
 ## 🧪 Introduction
 View3Labs is a Web3 creative studio building story-rich IP, tokenized ecosystems, and regenerative cultural impact.
