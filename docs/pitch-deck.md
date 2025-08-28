@@ -67,6 +67,16 @@ Each token grants:
 
 ---
 
+## 🚀 Launch Timeline
+- Q1–Q2 2025	Finalize tokenomics, security, legal  
+- Q3 2025	Launch OG/creator whitelist + Discordn  
+- Q4 2025	Drop 888 Founder Tokens (raise up to £500K)
+- Q1 2026	First studio project launch
+- Q2–Q3 2026	Announce & launch $V3 token with VC + community strategy
+- Ongoing	Treasury funds ecosystem growth + IP/media launches  
+
+---
+
 ## 🚀 Join Us
 - Website: [view3labs.com/links](https://view3labs.com/links)  
 
