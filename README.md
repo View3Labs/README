@@ -17,7 +17,6 @@ View3Labs merges creative storytelling with blockchain infrastructure to build d
 - [Security Policy](./SECURITY.md)
 - [Community Guidelines](./CODE_OF_CONDUCT.md)
 - [FAQ](./docs/faq.md)
-- [Contracts](contracts/deploy.js)
 - [Tests](test/) — Placeholder - (Hardhat/Foundry setup)
 
 ---
@@ -51,3 +50,5 @@ This repo is public and open for feedback.
 ## 🥷 Founded by 
 
 - [@jamiebxrns](https://github.com/jamiebxrns)
+
+
