@@ -1,4 +1,4 @@
-# View3Labs Roadmap
+# 🗺 View3Labs Roadmap
 
 ## ✅ Phase 1 — Foundation (Q3 2025)
 - [x] Finalize tokenomics + legal structure  
