@@ -9,6 +9,18 @@ View3Labs merges creative storytelling with blockchain infrastructure to build d
 
 ---
 
+## 📂 Repository Structure
+
+- [Litepaper](LITEPAPER.md)
+- [Roadmap](ROADMAP.md)
+- [Pitch Deck](./docs/pitch-deck.md)
+- [Security Policy](./SECURITY.md)
+- [Community Guidelines](./CODE_OF_CONDUCT.md)
+- [FAQ](FAQ.md)
+- [Contracts](contracts/)
+- [Tests](test/) — Placeholder test folder (Hardhat/Foundry setup)
+
+
 ## 📖 Key Documents
 - [Litepaper](./litepaper.md)
 - [Pitch Deck](./docs/pitch-deck.md)
