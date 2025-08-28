@@ -22,7 +22,7 @@ View3Labs merges creative storytelling with blockchain infrastructure to build d
 - [FounderNFT.sol](./contracts/FounderNFT.sol)
 - [V3Token.sol](./contracts/V3Token.sol)
 
-## Contributing
+## 🤝 Contributing
 
 This repo is public and open for feedback.  
 - Use **Issues** for bugs or questions  
@@ -30,7 +30,7 @@ This repo is public and open for feedback.
 
 ---
 
-## License
+## ⚔️ License
 
 - Code: [MIT](LICENSE)  
 - Content (docs, images): © View3Labs – All Rights Reserved  
@@ -42,6 +42,6 @@ This repo is public and open for feedback.
 
 ---
 
-## Founded by 
+## 🥷 Founded by 
 
 - [@jamiebxrns](https://github.com/jamiebxrns)
