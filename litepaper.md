@@ -1,18 +1,18 @@
-# View3Labs Litepaper
+# View3Labs Litepaper 👑
 
-## Introduction
+## 🧪 Introduction
 View3Labs is a Web3 creative studio building story-rich IP, tokenized ecosystems, and regenerative cultural impact.
 
 ---
 
-## Problem
+## 🌎 Problem
 - Web2 IP is centralized, limiting creator ownership.
 - Web3 often lacks trust, depth, and delivery.
 - Climate crisis demands cultural change.
 
 ---
 
-## Solution
+## 👁 Solution
 - Launch 888 Founder NFTs for governance, access, and rewards.
 - Develop $V3 token for ecosystem alignment.
 - Fund regenerative projects with 20% of net revenue.
@@ -20,7 +20,7 @@ View3Labs is a Web3 creative studio building story-rich IP, tokenized ecosystems
 
 ---
 
-## Product Pillars
+## 👾 Product Pillars
 - Interactive Media  
 - Mini-games, mobile apps, gamified experience  
 - Narrative Creation  
@@ -34,7 +34,7 @@ View3Labs is a Web3 creative studio building story-rich IP, tokenized ecosystems
 
 ---
 
-## Regenerative Ecosystem
+## ♻️ Regenerative Ecosystem
 20% of net revenue funds: 
 - Biodiversity + rewilding projects  
 - Climate action initiatives  
@@ -43,12 +43,12 @@ We build with purpose — and code it into the protocol.
 
 ---
 
-## Roadmap
+## 🗺 Roadmap
 See [docs/roadmap.md](./docs/roadmap.md) for rollout details.
 
 ---
 
-## Tokenomics (High-Level)
+## 🎟 Tokenomics (High-Level)
 - 1B total $V3 tokens  
 - 30% public/investor sale  
 - 20% ecosystem + donations  
@@ -58,7 +58,7 @@ See [docs/roadmap.md](./docs/roadmap.md) for rollout details.
 
 ---
 
-## Thank you
+## 🌙 Thank you
 Join the future of creative culture — decentralized, ethical, and regenerative.
 
 📡 Official Links: http://view3labs.com/links
