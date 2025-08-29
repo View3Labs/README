@@ -38,8 +38,9 @@ View3Labs is a Web3 creative studio building story-rich IP, tokenized ecosystems
 20% of net revenue funds: 
 - Biodiversity + rewilding projects  
 - Climate action initiatives  
-- Human Wellbeing + creative access 
-We build with purpose — and code it into the protocol. 
+- Human Wellbeing + creative access
+
+Our regenerative model is coded into our tokenomics and product lifecycle.   
 
 ---
 
