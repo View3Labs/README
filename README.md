@@ -24,7 +24,6 @@ View3Labs merges creative storytelling with blockchain infrastructure to build d
 ## 💠 Contracts
 - [FounderNFT.sol](./contracts/FounderNFT.sol)
 - [V3Token.sol](./contracts/V3Token.sol)
-- [Treasury.sol](./contracts/Treasury.sol)
 
 ---
 
