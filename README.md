@@ -17,13 +17,14 @@ View3Labs merges creative storytelling with blockchain infrastructure to build d
 - [Security Policy](./SECURITY.md)
 - [Community Guidelines](./CODE_OF_CONDUCT.md)
 - [FAQ](./docs/faq.md)
-- [Tests](test/) — Placeholder - (Hardhat/Foundry setup)
+- [Tests](test/) — (Placeholder - Hardhat/Foundry setup)
 
 ---
 
 ## 💠 Contracts
 - [FounderNFT.sol](./contracts/FounderNFT.sol)
 - [V3Token.sol](./contracts/V3Token.sol)
+- [Treasury.sol](./contracts/Treasury.sol)
 
 ---
 
