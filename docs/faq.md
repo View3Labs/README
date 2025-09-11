@@ -55,13 +55,13 @@ Yes — share ideas in the Regenerative Channel on Discord!
 ## 🔐 Safety & Trust
 
 **Where do I find official links?**  
-Always use our **Linktree**:  
-👉 [Official Links](https://yourlinktree.com/view3labs)  
+Always use our **Website**:  
+👉 [Official Links](https://view3labs.com/links)  
 
 **How do I avoid scams?**  
 - Never trust random DMs  
 - Only click links from official channels  
-- Bookmark our Linktree & ENS domain (`view3labs.eth`)  
+- Bookmark our website links page & ENS domain (`view3labs.eth`)  
 
 ---
 
