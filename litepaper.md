@@ -55,7 +55,7 @@ See [docs/roadmap.md](./docs/roadmap.md) for rollout details.
 - 20% ecosystem + donations  
 - 20% treasury reserve  
 - 20% team (36-month vesting)  
-- 10% community + Founder NFT pool  
+- 10% Founder NFT + community pool  
 
 ---
 
