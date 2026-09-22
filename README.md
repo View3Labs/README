@@ -22,15 +22,11 @@ View3Labs merges creative storytelling with blockchain infrastructure to build d
 - [FAQ](./docs/faq.md)
 - [Security Policy](./SECURITY.md)
 - [Community Guidelines](./CODE_OF_CONDUCT.md)
-- [Tests](test/) — (Placeholder - Hardhat/Foundry setup)
 
 ---
 
 ## 💠 Contracts
-Draft contracts, published for transparency and audited before any deployment:
-
-- [FounderNFT.sol](./contracts/FounderNFT.sol) — 963-piece Founder collection
-- [VIEW3Token.sol](./contracts/VIEW3Token.sol) — $VIEW3, 1B fixed supply
+The $VIEW3 and Founder NFT contracts are in development. The full source code will be published here alongside the independent audit report, before the Genesis mint opens — so everyone can read exactly what they are minting from.
 
 ---
 
