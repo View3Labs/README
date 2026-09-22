@@ -7,7 +7,7 @@
 ## 🌍 Vision
 - Merge creative storytelling + blockchain infrastructure  
 - Build decentralized, collaborative, impact-driven futures  
-- 20% of net revenue funds ecological & social regeneration  
+- 10% of net revenue funds ecological & social regeneration  
 
 ---
 
@@ -23,7 +23,7 @@
 **A full-stack Web3 creative studio**  
 - Premium, story-driven NFT products  
 - Digital-native IP across film, AR, fashion, gaming  
-- Token-powered access & governance ($V3 + Founder NFTs)  
+- Token-powered access & governance ($VIEW3 + Founder NFTs)  
 - Protocol-level regenerative funding  
 
 ---
@@ -44,13 +44,13 @@
 ---
 
 ## 🔑 Tokenomics (high-level)
-- **$V3 Token** (1B fixed supply)  
+- **$VIEW3 Token** (1B fixed supply)  
 - Categories: Public/Investors, Ecosystem, Treasury, Team, Community, NFT Pool  
 - **888 Founder NFTs** → governance, token claims, licensing tools, exclusive access  
 
 ---
 
-## 🎟 Founder NFTs — 888 Genesis Tokens
+## 🎟 Founder NFTs — 963 Genesis Tokens
 
 Each token grants:
 - Claimable $V3
@@ -61,18 +61,18 @@ Each token grants:
 ---
 
 ## ♻️ Regenerative Commitment
-- 20% net revenue → biodiversity, rewilding, climate action  
+- 10% net revenue → biodiversity, rewilding, climate action  
 - Community DAO votes allocation  
 - Transparent reporting on-chain  
 
 ---
 
 ## 🚀 Launch Timeline
-- Q1–Q2 2025	Finalize branding, slate, tokenomics, security, legal  
-- Q3 2025	Launch OG/creator whitelist + Discord  
-- Q4 2025	Drop 888 Founder Tokens (raise up to $300K)
-- Q1 2026	First studio project launch
-- Q2–Q3 2026	Announce & launch $V3 token with VC + community strategy
+- Q1–Q2 2026	Finalize branding, slate, tokenomics, security, legal  
+- Q3 2026	Launch OG/creator whitelist + Discord  
+- Q4 2026	Drop 888 Founder Tokens (raise up to $300K)
+- Q1 2027	First studio project launch
+- Q2–Q3 2027	Announce & launch $VIEW3 token with VC + community strategy
 - Ongoing	Treasury funds ecosystem growth + IP/media launches  
 
 ---
