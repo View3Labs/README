@@ -3,11 +3,11 @@
 const { ethers } = require("hardhat");
 
 async function main() {
-  // Deploy V3Token
-  const V3Token = await ethers.getContractFactory("V3Token");
-  const v3Token = await V3Token.deploy(ethers.utils.parseEther("1000000000")); // 1B tokens
-  await v3Token.deployed();
-  console.log("✅ V3Token deployed to:", v3Token.address);
+  // Deploy VIEW3Token
+  const VIEW3Token = await ethers.getContractFactory("VIEW3Token");
+  const view3Token = await VIEW3Token.deploy(ethers.utils.parseEther("1000000000")); // 1B tokens
+  await view3Token.deployed();
+  console.log("✅ VIEW3Token deployed to:", view3Token.address);
 
   // Deploy FounderNFT
   const FounderNFT = await ethers.getContractFactory("FounderNFT");
