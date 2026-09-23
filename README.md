@@ -9,8 +9,14 @@ View3Labs merges creative storytelling with blockchain infrastructure to build d
 
 ---
 
-## ⚠️ No contracts are deployed
-**No View3Labs contract is live on any chain.** Anything on-chain claiming to be $VIEW3 or the View3Labs Founder NFT is fake. The only official contract address will be posted in one channel of our Discord, by the team, after independent audit. The team will never DM you first.
+## ⚠️ Contracts
+**Nothing is deployed yet. No View3Labs contract is live on any chain**, so anything on-chain claiming to be $VIEW3 or the View3Labs Founder NFT today is fake.
+
+When it is real, here is how you will know:
+
+- The Founder NFT mints on independently audited, battle-tested contracts, and our full mint configuration is published here for anyone to verify before the Genesis mint opens.
+- The $VIEW3 token contract follows, with its independent audit report published here before launch.
+- The one official contract address is posted in a single channel of our Discord, by the team, nowhere else. The team will never DM you first.
 
 ---
 
@@ -22,11 +28,6 @@ View3Labs merges creative storytelling with blockchain infrastructure to build d
 - [FAQ](./docs/faq.md)
 - [Security Policy](./SECURITY.md)
 - [Community Guidelines](./CODE_OF_CONDUCT.md)
-
----
-
-## 💠 Contracts
-The $VIEW3 and Founder NFT contracts are in development. The full source code will be published here alongside the independent audit report, before the Genesis mint opens — so everyone can read exactly what they are minting from.
 
 ---
 
