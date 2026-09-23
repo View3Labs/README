@@ -8,7 +8,7 @@
 
 ## In short
 
-View3Labs is a working animation studio that puts real IP on-chain and shares it with the people who back it. Creators own the work. The community owns a piece of it. Everyone grows together.
+View3Labs is a working creative studio that puts real IP on-chain and shares it with the people who back it. Creators own the work. The community owns a piece of it. Everyone grows together.
 
 One title. One token. 963 founders.
 
