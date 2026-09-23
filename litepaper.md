@@ -111,7 +111,7 @@ The team will never DM you first and will never ask for a seed phrase or private
 | --- | --- | --- |
 | Go public | October 2026 | The studio announces. Discord opens, Architect invitations go out, the Pioneer programme runs |
 | Founder NFT mint | November 2026 | The 963 mint on Ethereum on independently audited contracts. Holder channels and governance unlock |
-| The egg | November to December 2026 | The first title is revealed. Pod mint, founders first. Community beta tests begin |
+| The egg | November to December 2026 | The first title is revealed. Egg mint, founders first. Community beta tests begin |
 | $VIEW3 launch | Q1 2027 | Token generation event, vesting live, treasury funded, Founder Pool begins |
 | Season Zero | Q1 2027 | Week one of the twenty-four-week run. First impact donations |
 | Beyond | 2027 onward | Partnerships, IRL events, merch and phygital, Season One, staking, new IP |
