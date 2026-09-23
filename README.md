@@ -1,3 +1,5 @@
+![View3Labs: character design and animation work from the studio](community/brand-assets/View3Labs-poster.jpg)
+
 # View3Labs 🌙
 
 **A Web3-native creative studio crafting hand-drawn animated IP, intelligent collectibles, and regenerative ecosystems.**
