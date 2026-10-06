@@ -16,7 +16,7 @@ One title. One token. 963 founders.
 - **The egg**, from November: the first mint of our first title, a hand-drawn sci-fi saga. 8,888 intelligent NFTs that develop alongside the story. The world is revealed at the egg.
 - **$VIEW3**: 1 billion supply, fixed. Team locked four years. Treasury locked four years. 10% of supply to real-world impact, backed by the 80/20 pledge.
 
-Named team. Audited contracts. Locked vesting. No exceptions.
+Named founder. Audited contracts. Locked vesting. No exceptions.
 
 ---
 
