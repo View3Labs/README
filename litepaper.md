@@ -95,7 +95,7 @@ Token releases happen against verified donations, and the pledge is reported qua
 
 Trust is earned, and we intend to earn it in public.
 
-- **A named, public team with a proven record.** Fifteen-plus years building film and animation studios for global brands, the Redmond Prize, the 2026 Bathgate Award and academic AI supervision. Real names and real credentials, all checkable by anyone.
+- **A named, public founder with a proven record.** Fifteen-plus years building film and animation studios for global brands, the Redmond Prize, the 2026 Bathgate Award and academic AI supervision. Real names and real credentials, all checkable by anyone.
 - **Audited before anyone sends a penny.** The mint runs on independently audited, battle-tested contracts, and our configuration is published for anyone to verify. The $VIEW3 token contract is independently audited before deployment, with the report published.
 - **One official contract address**, posted in one Discord channel, by the team alone.
 - **Locked in by design.** Team and treasury vesting enforced on-chain. Multisig treasury.
