@@ -1,6 +1,6 @@
 # View3Labs Litepaper
 
-**Hand-crafted animated IP. Intelligent collectibles. A regenerative ecosystem. Built on Ethereum.**
+**Hand-crafted worlds and stories. Intelligent collectibles. A regenerative ecosystem. Built on Ethereum.**
 
 *September 2026 · view3labs.com · @view3labs*
 
@@ -24,7 +24,7 @@ Named team. Audited contracts. Locked vesting. No exceptions.
 
 View3Labs is a creative studio first and a Web3 project second. We make hand-drawn worlds, characters and stories, and we use on-chain tools to let the people who love them own a piece of them.
 
-The studio is led by Jamie Burns: fifteen-plus years building and scaling independent film and animation studios for global brands and leading agencies, now completing a master's in machine learning at Liverpool John Moores University, where he holds the Redmond Prize. The team is hand artists, story developers and AI engineers, with academic AI supervision from LJMU. View3Labs holds the 2026 Bathgate Award with a development grant and is a member of the LJMU Business Start-Up Hub.
+The studio is led by Jamie Burns: fifteen-plus years building and scaling independent film and animation studios for global brands and leading agencies, now completing a master's in machine learning at Liverpool John Moores University, where he holds the Redmond Prize. The team is hand artists, story developers and AI engineers, with academic AI supervision. View3Labs holds the 2026 Bathgate Award with a development grant and is part of a university start-up programme.
 
 We do three things, and we do all three properly: original IP, intelligent collectibles, regenerative impact. Together they are the foundation.
 
@@ -95,7 +95,7 @@ Token releases happen against verified donations, and the pledge is reported qua
 
 Trust is earned, and we intend to earn it in public.
 
-- **A named, public team with a proven record.** Fifteen-plus years building film and animation studios for global brands, the LJMU Redmond Prize, the 2026 Bathgate Award, and academic AI supervision from LJMU. Real names and real credentials, all checkable by anyone.
+- **A named, public team with a proven record.** Fifteen-plus years building film and animation studios for global brands, the Redmond Prize, the 2026 Bathgate Award and academic AI supervision. Real names and real credentials, all checkable by anyone.
 - **Audited before anyone sends a penny.** The mint runs on independently audited, battle-tested contracts, and our configuration is published for anyone to verify. The $VIEW3 token contract is independently audited before deployment, with the report published.
 - **One official contract address**, posted in one Discord channel, by the team alone.
 - **Locked in by design.** Team and treasury vesting enforced on-chain. Multisig treasury.
