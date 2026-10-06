@@ -11,7 +11,7 @@ Here are answers to some of the most common questions about our studio, NFTs, an
 View3Labs is a Web3-native creative studio. We make hand-crafted worlds and stories, intelligent digital collectibles, and a regenerative ecosystem that funds real-world impact.  
 
 **What makes View3Labs different?**  
-A named team, real animation craft, and AI trained purely on our own work. Plus, **10% of the total $VIEW3 supply is written into the tokenomics for ecological and social causes**, guided by holder voting.  
+A named founder, real animation craft, and AI trained purely on our own work. Plus, **10% of the total $VIEW3 supply is written into the tokenomics for ecological and social causes**, guided by holder voting.  
 
 ---
 
