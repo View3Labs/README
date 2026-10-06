@@ -129,6 +129,8 @@ We are at the start of this path. The earlier you are here, the more of the jour
 
 Welcome to the studio. Let's build something that lasts.
 
+**Contact:** [hello@view3labs.com](mailto:hello@view3labs.com)
+
 ---
 
 *This document describes what we are building and is provided for information only. It is not an offer, a solicitation or investment, legal or tax advice. Decisions to take part are yours, made with your own independent advice.*
