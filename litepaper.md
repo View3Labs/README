@@ -69,7 +69,7 @@ The token that powers the ecosystem: utility and governance on Ethereum, 1,000,0
 | --- | --- | --- |
 | Public Sale | 25% | Funding and liquidity |
 | Treasury | 25% | Operations and growth |
-| Team and Advisors | 15% | Fully vested |
+| Team and Advisors | 15% | Locked and vested |
 | Ecosystem Growth | 10% | Partnerships and expansion |
 | Community Rewards | 10% | The contribution layer |
 | Impact and Donations | 10% | Real-world funding |
