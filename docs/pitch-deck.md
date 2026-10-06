@@ -1,6 +1,6 @@
 # 🚀 View3Labs Pitch (Public Summary)
 
-**A Web3-native creative studio crafting hand-drawn animated IP, intelligent collectibles, and regenerative ecosystems.**
+**A Web3-native creative studio crafting hand-crafted worlds and stories, intelligent collectibles and a regenerative ecosystem.**
 
 ---
 
@@ -20,8 +20,8 @@
 ---
 
 ## 💡 Solution
-**A working animation studio, on-chain**  
-- Hand-drawn, story-driven IP — starting with the egg 🥚  
+**A working creative studio, on-chain**  
+- Hand-drawn, story-driven IP, starting with the egg 🥚  
 - Intelligent collectibles that develop alongside the story  
 - Token-powered access & governance ($VIEW3 + Founder NFTs)  
 - Impact written into the token allocation  
@@ -50,7 +50,7 @@
 
 ---
 
-## 🎟 Founder NFTs — 963
+## 🎟 Founder NFTs · 963
 
 | Tier | Supply | Way in |
 | --- | --- | --- |
@@ -60,7 +60,7 @@
 | Genesis | 600 | Public mint @ 0.18 ETH |
 
 Each token grants:
-- An equal base share of $VIEW3 — every tier the same
+- An equal base share of $VIEW3, every tier the same
 - Governance rights
 - Lifetime access to every studio project, betas first
 - Access to IRL and digital experiences
@@ -76,8 +76,8 @@ Each token grants:
 
 ## 🚀 Launch Timeline
 - Oct 2026	Go public: campaign, Discord, Architect invitations, Pioneer programme  
-- Nov 2026	Founder NFT mint — 963 on Ethereum, after audit (Genesis 600 @ 0.18 ETH)  
-- Nov–Dec 2026	The egg 🥚 — first title revealed, Pod mint, community betas  
+- Nov 2026	Founder NFT mint: 963 on Ethereum, after audit (Genesis 600 @ 0.18 ETH)  
+- Nov–Dec 2026	The egg 🥚: first title revealed, egg mint, community betas  
 - Q1 2027	$VIEW3 token generation event + Season Zero week one  
 - Ongoing	Treasury funds ecosystem growth + IP/media launches  
 
