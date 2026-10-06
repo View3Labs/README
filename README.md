@@ -2,7 +2,7 @@
 
 # View3Labs 🌙
 
-**A Web3-native creative studio crafting hand-drawn animated IP, intelligent collectibles, and regenerative ecosystems.**
+**A Web3-native creative studio crafting hand-crafted worlds and stories, intelligent collectibles and a regenerative ecosystem.**
 
 ---
 
