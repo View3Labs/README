@@ -14,7 +14,7 @@ One title. One token. 963 founders.
 
 - **The Founder NFT**, October: 963 pieces. Lifetime access to everything we make. Equal $VIEW3 rewards for every holder.
 - **The egg**, from November: the first mint of our first title, a hand-drawn sci-fi saga. 8,888 intelligent NFTs that develop alongside the story. The world is revealed at the egg.
-- **$VIEW3**: 1 billion supply, fixed. Team locked four years. Treasury locked four years. 10% of supply to real-world impact, backed by a revenue pledge.
+- **$VIEW3**: 1 billion supply, fixed. Team locked four years. Treasury locked four years. 10% of supply to planet conservation, backed by a revenue pledge.
 
 Named founder. Audited contracts. Locked vesting. No exceptions.
 
@@ -83,7 +83,7 @@ The team and treasury are locked the longest. The team earns its allocation from
 
 **10% of the token. A share of every sale. For ever.**
 
-10% of total supply, 100M $VIEW3, to environmental and social projects: biodiversity, climate, conservation, and causes the holders choose. Written into the allocation, so it holds for the life of the token.
+10% of total supply, 100M $VIEW3, to the planet: biodiversity, climate, conservation and causes the holders choose. Written into the allocation, so it holds for the life of the token.
 
 And the revenue pledge: 10% of net revenue from merch, licensing, the premium series and royalties goes to impact from day one, rising to 20% once the studio is profitable. Mint and token sale proceeds fund production, and their impact share comes through the 10% token allocation.
 
