@@ -2,7 +2,7 @@
 
 # View3Labs 🌙
 
-**A working creative studio putting hand-drawn IP on-chain as super intelligent collectables and sharing it with the people who back it. Built on Ethereum.**
+**A working creative studio putting hand-drawn IP on-chain as intelligent collectibles and sharing it with the people who back it. Built on Ethereum.**
 
 One studio. One token. 963 founders.
 
