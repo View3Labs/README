@@ -7,7 +7,7 @@
 ---
 
 ## 🌍 Vision
-View3Labs merges creative storytelling with blockchain infrastructure to build decentralized, collaborative, and impact-driven futures. One title. One token. 963 founders.
+View3Labs merges creative storytelling with blockchain infrastructure to build decentralized, collaborative, and impact-driven futures. One studio. One token. 963 founders.
 
 ---
 

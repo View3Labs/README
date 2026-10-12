@@ -54,8 +54,7 @@
 
 | Tier | Supply | Way in |
 | --- | --- | --- |
-| Founders' Circle | 9 | Invited |
-| Architect | 90 | Invited |
+| Architect | 99 | Invited |
 | Pioneer | 264 | Earned, then minted (discounted) |
 | Genesis | 600 | Public mint @ 0.18 ETH |
 

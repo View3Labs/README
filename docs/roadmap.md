@@ -11,7 +11,7 @@
 ## 🟨 Phase 2 — Go Public (October 2026)
 - [ ] Studio announcement + six-week campaign  
 - [ ] Discord opens: rules, verify, Trust & Security live from day one  
-- [ ] Architect invitations (99 invited: 9 Founders' Circle + 90 Architects)  
+- [ ] Architect invitations (99 invited, all Architects)  
 - [ ] Pioneer programme: 264 spots earned in the community  
 
 ---
