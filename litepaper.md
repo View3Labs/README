@@ -126,7 +126,7 @@ We are at the start of this path. The earlier you are here, the more of the jour
 - **Read the full whitepaper**, with the complete tokenomics, vesting schedule and contract details. Available now to verified members in the Discord, and fully public before the Genesis mint opens, so the complete document is free for everyone to read before minting begins.
 - **Only 99 pieces are invited**, all Architects. If you believe you belong in that circle, tell us why in Discord.
 
-Welcome to the studio. Let's build something that lasts.
+Welcome to the studio. Let's build something together that lasts.
 
 **Contact:** [hello@view3labs.com](mailto:hello@view3labs.com)
 
