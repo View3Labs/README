@@ -24,7 +24,7 @@ Your stake in the whole studio. Holders get:
 - A real vote on community and impact decisions  
 
 **How do the tiers work?**  
-- **Founders' Circle (9)** + **Architect (90)**: invited  
+- **Architect (99)**: invited  
 - **Pioneer (264)**: earned in the community, then minted at a discount  
 - **Genesis (600)**: public mint at 0.18 ETH  
 

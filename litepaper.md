@@ -8,11 +8,11 @@
 
 ## In short
 
-View3Labs is a working creative studio that puts real IP on-chain and shares it with the people who back it. Creators own the work. The community owns a piece of it. Everyone grows together.
+View3Labs is a working creative studio that puts real IP on-chain as artificially intelligent NFTs. Creators own the work. The community owns a piece of it. Everyone grows together.
 
-One title. One token. 963 founders.
+One studio. One token. 963 founders.
 
-- **The Founder NFT**, October: 963 pieces. Lifetime access to everything we make. Equal $VIEW3 rewards for every holder.
+- **The Founder NFT**, November: 963 pieces. Lifetime access to everything we make. Equal $VIEW3 rewards for every holder.
 - **The egg**, from November: the first mint of our first title, a hand-drawn sci-fi saga. 8,888 intelligent NFTs that develop alongside the story. The world is revealed at the egg.
 - **$VIEW3**: 1 billion supply, fixed. Team locked four years. Treasury locked four years. 10% of supply to planet conservation, backed by a revenue pledge.
 
@@ -46,8 +46,7 @@ The first title runs community beta tests before wide release, and the View3Labs
 
 | Tier | Supply | Way in | Price |
 | --- | --- | --- | --- |
-| Founders' Circle | 9 | Invited | Free |
-| Architect | 90 | Invited | Free |
+| Architect | 99 | Invited | Free |
 | Pioneer | 264 | Earned, then minted | Discounted, TBA |
 | Genesis | 600 | Public mint | 0.18 ETH |
 
@@ -125,7 +124,7 @@ We are at the start of this path. The earlier you are here, the more of the jour
 - **Follow @view3labs on X.** Everything is announced there first, then explained in Discord.
 - **Join the Discord.** Read the rules, verify, and find your place. Pioneer spots are earned there.
 - **Read the full whitepaper**, with the complete tokenomics, vesting schedule and contract details. Available now to verified members in the Discord, and fully public before the Genesis mint opens, so the complete document is free for everyone to read before minting begins.
-- **Only 99 pieces are invited**: 9 in the Founders' Circle and 90 Architects. If you believe you belong in that circle, tell us why in Discord.
+- **Only 99 pieces are invited**, all Architects. If you believe you belong in that circle, tell us why in Discord.
 
 Welcome to the studio. Let's build something that lasts.
 
