@@ -2,12 +2,9 @@
 
 # View3Labs 🌙
 
-**A Web3-native creative studio crafting hand-crafted worlds and stories, intelligent collectibles and a regenerative ecosystem.**
+**A working creative studio putting hand-drawn IP on-chain as super intelligent collectables and sharing it with the people who back it. Built on Ethereum.**
 
----
-
-## 🌍 Vision
-View3Labs merges creative storytelling with blockchain infrastructure to build decentralized, collaborative, and impact-driven futures. One studio. One token. 963 founders.
+One studio. One token. 963 founders.
 
 ---
 
