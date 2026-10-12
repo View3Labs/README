@@ -36,7 +36,7 @@ The Founder NFT gets you into everything we make. The first thing we make is a h
 
 8,888 intelligent NFTs, released to collectors first, that develop alongside a 24-week serialised story. Every piece is drawn by our art team. Our AI is trained purely on our own work, so everything it makes is unmistakably ours.
 
-The first title runs community beta tests before wide release, and the View3Labs community is part of them: early builds, story chapters and the iNFT experience, tested and shaped with holders first. The title and its world are revealed at the egg mint, and founders get first access.
+The first title runs community beta tests before wide release, and the View3Labs community is part of them: early builds, story chapters and the iNFT experience, tested and shaped with holders first. Its name is held back while we trademark the brand. The title and its world are revealed at the egg mint, and founders get first access.
 
 ---
 

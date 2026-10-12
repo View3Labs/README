@@ -13,6 +13,9 @@ View3Labs is a Web3-native creative studio. We make hand-crafted worlds and stor
 **What makes View3Labs different?**  
 A named founder, real animation craft, and AI trained purely on our own work. Plus, **10% of the total $VIEW3 supply is written into the tokenomics for ecological and social causes**, guided by holder voting.  
 
+**Why isn't the first title named yet?**  
+Its name is held back while we trademark the brand. The title and its world are revealed at the egg mint.  
+
 ---
 
 ## 🎟️ Founder NFTs
