@@ -14,7 +14,7 @@ One title. One token. 963 founders.
 
 - **The Founder NFT**, October: 963 pieces. Lifetime access to everything we make. Equal $VIEW3 rewards for every holder.
 - **The egg**, from November: the first mint of our first title, a hand-drawn sci-fi saga. 8,888 intelligent NFTs that develop alongside the story. The world is revealed at the egg.
-- **$VIEW3**: 1 billion supply, fixed. Team locked four years. Treasury locked four years. 10% of supply to real-world impact, backed by the 80/20 pledge.
+- **$VIEW3**: 1 billion supply, fixed. Team locked four years. Treasury locked four years. 10% of supply to real-world impact, backed by a revenue pledge.
 
 Named founder. Audited contracts. Locked vesting. No exceptions.
 
@@ -75,17 +75,17 @@ The token that powers the ecosystem: utility and governance on Ethereum, 1,000,0
 | Impact and Donations | 10% | Real-world funding |
 | Founder NFT Pool | 5% | The 963 founders |
 
-The largest allocations are locked the longest. The team earns its allocation from the second year onward, steadily, over three more. The treasury releases over four years. This is tokenomics built to last, not to flip. Exact figures are confirmed in the whitepaper ahead of launch.
+The team and treasury are locked the longest. The team earns its allocation from the second year onward, steadily, over three more. The treasury releases over four years. This is tokenomics built to last, not to flip. Exact figures are confirmed in the whitepaper ahead of launch.
 
 ---
 
 ## Regenerative impact
 
-**10% of the token. 20% of the profit. For ever.**
+**10% of the token. A share of every sale. For ever.**
 
 10% of total supply, 100M $VIEW3, to environmental and social projects: biodiversity, climate, conservation, and causes the holders choose. Written into the allocation, so it holds for the life of the token.
 
-And the 80/20 pledge: 80% of net studio revenue builds the studio, 20% goes to impact. Merch, licensing, the premium series, royalties: a fifth of the profit follows the token allocation, for as long as the studio earns.
+And the revenue pledge: 10% of net revenue from merch, licensing, the premium series and royalties goes to impact from day one, rising to 20% once the studio is profitable. Mint and token sale proceeds fund production, and their impact share comes through the 10% token allocation.
 
 Token releases happen against verified donations, and the pledge is reported quarterly alongside them. Holders vote on partners. Every contribution named, shown and reported. Creativity shapes culture, and culture should pull in the right direction. Regenerative means value that flows outward as well as upward.
 
