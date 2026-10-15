@@ -21,9 +21,9 @@ Its name is held back while we trademark the brand. The title and its world are 
 ## 🎟️ Founder NFTs
 
 **What are the 963 Founder NFTs?**  
-Your stake in the whole studio. Holders get:  
+A founding membership of the whole studio. Holders get:  
 - Lifetime access to every project we launch  
-- An equal base share of $VIEW3, the same for every tier  
+- First access to the egg and first place in the community betas  
 - A real vote on community and impact decisions  
 
 **How do the tiers work?**  
@@ -31,8 +31,8 @@ Your stake in the whole studio. Holders get:
 - **Pioneer (264)**: earned in the community, then minted at a discount  
 - **Genesis (600)**: public mint at 0.18 ETH  
 
-**Do higher tiers earn more?**  
-No. Tiers shape access, rewards are equal. Contribution is rewarded separately and is open to every tier: a Genesis holder who builds can earn more than anyone.  
+**Do higher tiers get more?**  
+No. Tiers shape access. Every founder gets the same. Contribution is rewarded separately and is open to every tier: a Genesis holder who builds can earn more than anyone.  
 
 ---
 

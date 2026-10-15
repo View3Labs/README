@@ -58,9 +58,9 @@
 | Pioneer | 264 | Earned, then minted (discounted) |
 | Genesis | 600 | Public mint @ 0.18 ETH |
 
-Each token grants:
-- An equal base share of $VIEW3, every tier the same
-- Governance rights
+Each Founder NFT grants:
+- First access to the egg, every tier the same
+- A vote on community and impact decisions
 - Lifetime access to every studio project, betas first
 - Access to IRL and digital experiences
 

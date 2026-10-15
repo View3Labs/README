@@ -8,11 +8,11 @@
 
 ## In short
 
-View3Labs is a working creative studio that puts real IP on-chain as artificially intelligent NFTs. Creators own the work. The community owns a piece of it. Everyone grows together.
+View3Labs is a working creative studio that puts real IP on-chain as artificially intelligent NFTs. Creators own the work. The community helps shape it. Everyone grows together.
 
-One studio. One token. 963 founders.
+One studio. 963 founders.
 
-- **The Founder NFT**, November: 963 pieces. Lifetime access to everything we make. Equal $VIEW3 rewards for every holder.
+- **The Founder NFT**, November: 963 pieces. Lifetime access to everything we make. A vote on community and impact decisions.
 - **The egg**, from November: the first mint of our first title, a hand-drawn sci-fi saga. 8,888 intelligent NFTs that develop alongside the story. The world is revealed at the egg.
 - **$VIEW3**: 1 billion supply, fixed. Team locked four years. Treasury locked four years. 10% of supply to real-world impact, backed by a revenue pledge.
 
@@ -22,7 +22,7 @@ Named founder. Audited contracts. Locked vesting. No exceptions.
 
 ## The studio
 
-View3Labs is a creative studio first and a Web3 project second. We make hand-drawn worlds, characters and stories, and we use on-chain tools to let the people who love them own a piece of them.
+View3Labs is a creative studio first and a Web3 project second. We make hand-drawn worlds, characters and stories, and we use on-chain tools to bring the people who love them into the studio.
 
 The studio is led by Jamie Burns ([@jamiebxrns](https://x.com/jamiebxrns)): fifteen-plus years building and scaling independent film and animation studios for global brands and leading agencies, now completing a master's in machine learning at Liverpool John Moores University, where he holds the Redmond Prize. The team is hand artists, story developers and AI engineers, with academic AI supervision. View3Labs holds the 2026 Bathgate Award with a development grant and is part of a university start-up programme.
 
@@ -42,7 +42,7 @@ The first title runs community beta tests before wide release, and the View3Labs
 
 ## The Founder NFT
 
-963 pieces on Ethereum. Your stake in the whole studio and everything it makes. Ninety-nine are invited; the rest are earned or minted.
+963 pieces on Ethereum. Lifetime access to the whole studio and everything it makes. Ninety-nine are invited; the rest are earned or minted.
 
 | Tier | Supply | Way in | Price |
 | --- | --- | --- | --- |
@@ -52,9 +52,9 @@ The first title runs community beta tests before wide release, and the View3Labs
 
 Any Pioneer spots still open at the deadline roll into Genesis, so the collection is always exactly 963.
 
-**Every founder gets the same:** an equal base share of $VIEW3 from the Founder Pool, lifetime access to every project we ever launch, a real vote on community and impact decisions, and a permanent place in the founding story.
+**Every founder gets the same:** lifetime access to every project we ever launch, first access to the egg, a real vote on community and impact decisions, and a permanent place in the founding story.
 
-**Tiers shape access. Rewards are equal.** Contribution is rewarded separately from the Community Rewards allocation and is open to every tier: quests, content, referrals, moderation, the work that builds this place. A Genesis holder who builds can earn more than anyone. Every founder earns the same. Every builder earns more.
+**Tiers shape access.** Contribution is rewarded separately from the Community Rewards allocation and is open to every tier: quests, content, referrals, moderation, the work that builds this place. A Genesis holder who builds can earn more than anyone. Every founder earns the same. Every builder earns more.
 
 Pioneer spots are earned in the community during October, then minted at a discount. The Genesis mint follows in November, on independently audited, battle-tested contracts. The egg follows, founders first.
 
@@ -115,7 +115,7 @@ The team will never DM you first and will never ask for a seed phrase or private
 | Season Zero | Q1 2027 | Week one of the twenty-four-week run. First impact donations |
 | Beyond | 2027 onward | Partnerships, IRL events, merch and phygital, Season One, staking, new IP |
 
-We are at the start of this path. The earlier you are here, the more of the journey you own.
+We are at the start of this path. The earlier you are here, the more of the story you help shape.
 
 ---
 
