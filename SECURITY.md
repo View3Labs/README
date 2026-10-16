@@ -8,7 +8,7 @@ If you discover a vulnerability within our smart contracts, docs, or community p
 
 We will:
 - Acknowledge receipt within 48h
-- Prioritize fixes
+- Prioritise fixes
 - Credit contributors if desired
 
 ---

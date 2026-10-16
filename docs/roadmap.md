@@ -2,7 +2,7 @@
 
 ## ✅ Phase 1: Foundation (2025 → Sept 2026)
 - [x] Studio + legal structure defined  
-- [x] Litepaper + whitepaper written  
+- [x] Litepaper written  
 - [x] Community hub designed  
 - [x] Founding strategy locked: 963 founders, Ethereum  
 
@@ -12,13 +12,13 @@
 - [ ] Studio announcement + six-week campaign  
 - [ ] Discord opens: rules, verify, Trust & Security live from day one  
 - [ ] Architect invitations (99 invited, all Architects)  
-- [ ] Pioneer programme: 264 spots earned in the community  
+- [ ] Pioneer programme: 264 spots for contributors in the community  
 
 ---
 
 ## 🟨 Phase 3: Founder NFT Mint (November 2026)
 - [ ] Independent contract audit, report published  
-- [ ] 963 Founder NFTs mint on Ethereum (Genesis 600 @ 0.18 ETH)  
+- [ ] 963 Founder NFTs mint on Ethereum  
 - [ ] Holder channels + governance unlock  
 
 ---
@@ -32,7 +32,6 @@
 ---
 
 ## ⬜ Phase 5: Season Zero (Q1 2027)
-- [ ] $VIEW3: details published once reviewed  
 - [ ] Season Zero week one of twenty-four  
 - [ ] First regenerative impact donations  
 

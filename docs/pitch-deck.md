@@ -6,7 +6,7 @@
 
 ## 🌍 Vision
 - Merge creative storytelling + blockchain infrastructure  
-- Build decentralized, collaborative, impact-driven futures  
+- Build decentralised, collaborative, impact-driven futures  
 - A share of every sale funds ecological & social regeneration  
 
 ---
@@ -24,7 +24,7 @@
 - Hand-drawn, story-driven IP, starting with the egg 🥚  
 - AI companions (iNFTs) that grow alongside the story: drawn by hand, raised by you  
 - Founder NFT access & governance  
-- A revenue pledge to impact: 10%, rising to 20% once profitable  
+- A revenue pledge to impact: 10%, rising to 20% once the studio is profitable  
 
 ---
 
@@ -42,18 +42,13 @@
 
 ---
 
-## 🔑 $VIEW3
-- Token details follow once they have been reviewed  
-
----
-
 ## 🎟 Founder NFTs · 963
 
 | Tier | Supply | Way in |
 | --- | --- | --- |
 | Architect | 99 | Invited |
-| Pioneer | 264 | Earned, then minted (discounted) |
-| Genesis | 600 | Public mint @ 0.18 ETH |
+| Pioneer | 264 | Contribute, then mint |
+| Genesis | 600 | Public mint |
 
 Each Founder NFT grants:
 - First access to the egg, every tier the same
@@ -64,15 +59,15 @@ Each Founder NFT grants:
 ---
 
 ## ♻️ Regenerative Commitment
-- 10% of net revenue (20% once profitable) → biodiversity, rewilding, climate action + social causes  
-- Holders vote allocation  
+- 10% of net revenue (20% once the studio is profitable) → biodiversity, rewilding, climate action + social causes  
+- Holders vote on partners  
 - Transparent quarterly reporting, every donation verified  
 
 ---
 
 ## 🚀 Launch Timeline
 - Oct 2026	Go public: campaign, Discord, Architect invitations, Pioneer programme  
-- Nov 2026	Founder NFT mint: 963 on Ethereum, after audit (Genesis 600 @ 0.18 ETH)  
+- Nov 2026	Founder NFT mint: 963 on Ethereum (Genesis 600)  
 - Nov–Dec 2026	The egg 🥚: first title revealed, egg mint, community betas  
 - Q1 2027	Season Zero week one  
 - Ongoing	Ecosystem growth + IP/media launches  
