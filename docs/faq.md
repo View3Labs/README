@@ -26,7 +26,7 @@ Its name is held back while we trademark the brand. The title and its world are 
 **What are the 963 Founder NFTs?**  
 A founding membership of the whole studio. Holders get:  
 - Lifetime access to every project we launch  
-- First access to the egg, every drop and every future project. First place in the community betas. A lifetime discount on everything the studio sells  
+- First access to the egg, every drop and every future project. First place in the community betas. A lifetime discount on everything the studio sells. Founders-only competitions and giveaways, with prizes made by the studio  
 - A real vote on community and impact decisions  
 
 **How do the tiers work?**  
