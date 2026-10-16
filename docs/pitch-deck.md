@@ -7,7 +7,7 @@
 ## 🌍 Vision
 - Merge creative storytelling + blockchain infrastructure  
 - Build decentralized, collaborative, impact-driven futures  
-- 10% of total $VIEW3 supply funds ecological & social regeneration  
+- A share of every sale funds ecological & social regeneration  
 
 ---
 
@@ -22,16 +22,15 @@
 ## 💡 Solution
 **A working creative studio, on-chain**  
 - Hand-drawn, story-driven IP, starting with the egg 🥚  
-- Intelligent collectibles that develop alongside the story  
-- Token-powered access & governance ($VIEW3 + Founder NFTs)  
-- Impact written into the token allocation  
+- AI companions (iNFTs) that grow alongside the story: drawn by hand, raised by you  
+- Founder NFT access & governance  
+- A revenue pledge to impact: 10%, rising to 20% once profitable  
 
 ---
 
 ## 💼 Business Model
 - Founder NFT mint (963) + first title collection (8,888)  
 - Secondary royalties  
-- Token-driven utilities & rewards  
 - Merch, collabs, licensing, events  
 
 ---
@@ -43,10 +42,8 @@
 
 ---
 
-## 🔑 Tokenomics (high-level)
-- **$VIEW3 Token** (1B fixed supply, Ethereum)  
-- 25% Public Sale · 25% Treasury · 15% Team (vested) · 10% Ecosystem · 10% Community · 10% Impact · 5% Founder Pool  
-- Team: 12-month cliff + 36-month release · Treasury: 48 months  
+## 🔑 $VIEW3
+- Token details follow once they have been reviewed  
 
 ---
 
@@ -58,18 +55,18 @@
 | Pioneer | 264 | Earned, then minted (discounted) |
 | Genesis | 600 | Public mint @ 0.18 ETH |
 
-Each token grants:
-- An equal base share of $VIEW3, every tier the same
-- Governance rights
+Each Founder NFT grants:
+- First access to the egg, every tier the same
+- A vote on community and impact decisions
 - Lifetime access to every studio project, betas first
 - Access to IRL and digital experiences
 
 ---
 
 ## ♻️ Regenerative Commitment
-- 10% of total supply → biodiversity, rewilding, climate action + social causes  
+- 10% of net revenue (20% once profitable) → biodiversity, rewilding, climate action + social causes  
 - Holders vote allocation  
-- Transparent reporting, released against verified donations  
+- Transparent quarterly reporting, every donation verified  
 
 ---
 
@@ -77,8 +74,8 @@ Each token grants:
 - Oct 2026	Go public: campaign, Discord, Architect invitations, Pioneer programme  
 - Nov 2026	Founder NFT mint: 963 on Ethereum, after audit (Genesis 600 @ 0.18 ETH)  
 - Nov–Dec 2026	The egg 🥚: first title revealed, egg mint, community betas  
-- Q1 2027	$VIEW3 token generation event + Season Zero week one  
-- Ongoing	Treasury funds ecosystem growth + IP/media launches  
+- Q1 2027	Season Zero week one  
+- Ongoing	Ecosystem growth + IP/media launches  
 
 ---
 

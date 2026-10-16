@@ -1,7 +1,7 @@
 # View3Labs – Community FAQ 🌱
 
 Welcome to the View3Labs community!  
-Here are answers to some of the most common questions about our studio, NFTs, and token.
+Here are answers to some of the most common questions about our studio and NFTs.
 
 ---
 
@@ -11,7 +11,10 @@ Here are answers to some of the most common questions about our studio, NFTs, an
 View3Labs is a Web3-native creative studio. We make hand-crafted worlds and stories, intelligent digital collectibles, and a regenerative ecosystem that funds real-world impact.  
 
 **What makes View3Labs different?**  
-A named founder, real animation craft, and AI trained purely on our own work. Plus, **10% of the total $VIEW3 supply is written into the tokenomics for ecological and social causes**, guided by holder voting.  
+A named founder, real animation craft, and AI trained purely on our own work. Plus, **a share of every sale goes to ecological and social causes**, guided by holder voting.  
+
+**What is an iNFT companion?**  
+An intelligent NFT from our first title: a hand-drawn character that hatches from the egg and grows into an AI companion alongside the story. Drawn by hand. Raised by you. It always tells you it is AI, it is built for adults, and your personal memories stay private to you.  
 
 **Why isn't the first title named yet?**  
 Its name is held back while we trademark the brand. The title and its world are revealed at the egg mint.  
@@ -21,9 +24,9 @@ Its name is held back while we trademark the brand. The title and its world are 
 ## 🎟️ Founder NFTs
 
 **What are the 963 Founder NFTs?**  
-Your stake in the whole studio. Holders get:  
+A founding membership of the whole studio. Holders get:  
 - Lifetime access to every project we launch  
-- An equal base share of $VIEW3, the same for every tier  
+- First access to the egg and first place in the community betas  
 - A real vote on community and impact decisions  
 
 **How do the tiers work?**  
@@ -31,25 +34,22 @@ Your stake in the whole studio. Holders get:
 - **Pioneer (264)**: earned in the community, then minted at a discount  
 - **Genesis (600)**: public mint at 0.18 ETH  
 
-**Do higher tiers earn more?**  
-No. Tiers shape access, rewards are equal. Contribution is rewarded separately and is open to every tier: a Genesis holder who builds can earn more than anyone.  
+**Do higher tiers get more?**  
+No. Tiers shape access. Every founder gets the same. Contribution is open to every tier, and it is how Pioneer spots are earned.  
 
 ---
 
-## 💰 $VIEW3 Token
+## 💰 $VIEW3
 
-**What is the $VIEW3 token?**  
-$VIEW3 is the ecosystem token that powers rewards, access, and governance across View3Labs projects. 1 billion supply, fixed for ever, on Ethereum.  
-
-**When does $VIEW3 launch?**  
-After the Founder NFT mint and the egg 🥚. The token generation event is planned for Q1 2027, once contracts are audited. Founder NFTs come first.  
+**Is there a token?**  
+Token details are being reviewed and will be published here once approved. Founder NFTs come first.  
 
 ---
 
 ## 🌍 Regenerative Impact
 
 **How does View3Labs support the planet?**  
-We dedicate **10% of the total token supply** to ecological and social causes, released against verified donations.  
+We give **10% of net revenue** from merch, licensing, the premium series and royalties to ecological and social causes, rising to 20% once the studio is profitable, with every donation verified.  
 Holders vote on where funds go.  
 
 **Can I suggest a cause?**  
@@ -80,7 +80,7 @@ Always use our **Website**:
 - 🟨 Go public + Pioneer programme (Oct 2026)  
 - 🟨 Founder NFT mint: 963 (Nov 2026)  
 - 🟨 The egg 🥚 + first title reveal (Nov–Dec 2026)  
-- ⬜ $VIEW3 token + Season Zero (Q1 2027)  
+- ⬜ Season Zero (Q1 2027)  
 
 ---
 

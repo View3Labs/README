@@ -1,14 +1,14 @@
 # 🗺 View3Labs Roadmap
 
-## ✅ Phase 1 — Foundation (2025 → Sept 2026)
-- [x] Studio, tokenomics + legal structure defined  
+## ✅ Phase 1: Foundation (2025 → Sept 2026)
+- [x] Studio + legal structure defined  
 - [x] Litepaper + whitepaper written  
 - [x] Community hub designed  
-- [x] Founding strategy locked: 963 founders, $VIEW3, Ethereum  
+- [x] Founding strategy locked: 963 founders, Ethereum  
 
 ---
 
-## 🟨 Phase 2 — Go Public (October 2026)
+## 🟨 Phase 2: Go Public (October 2026)
 - [ ] Studio announcement + six-week campaign  
 - [ ] Discord opens: rules, verify, Trust & Security live from day one  
 - [ ] Architect invitations (99 invited, all Architects)  
@@ -16,30 +16,29 @@
 
 ---
 
-## 🟨 Phase 3 — Founder NFT Mint (November 2026)
+## 🟨 Phase 3: Founder NFT Mint (November 2026)
 - [ ] Independent contract audit, report published  
 - [ ] 963 Founder NFTs mint on Ethereum (Genesis 600 @ 0.18 ETH)  
 - [ ] Holder channels + governance unlock  
 
 ---
 
-## 🟨 Phase 4 — The Egg 🥚 (Nov–Dec 2026)
+## 🟨 Phase 4: The Egg 🥚 (Nov–Dec 2026)
 - [ ] The first title is revealed  
-- [ ] Pod mint, founders first  
+- [ ] Egg mint, founders first: AI companions, drawn by hand and raised by you  
 - [ ] Community beta tests begin  
 - [ ] Season Zero countdown  
 
 ---
 
-## ⬜ Phase 5 — $VIEW3 + Season Zero (Q1 2027)
-- [ ] Token generation event: vesting live, treasury funded, Founder Pool begins  
+## ⬜ Phase 5: Season Zero (Q1 2027)
+- [ ] $VIEW3: details published once reviewed  
 - [ ] Season Zero week one of twenty-four  
 - [ ] First regenerative impact donations  
 
 ---
 
-## ⬜ Ongoing — Ecosystem Expansion (2027 →)
+## ⬜ Ongoing: Ecosystem Expansion (2027 →)
 - [ ] Partnerships, IRL events, merch + phygital drops  
 - [ ] Season One of the first title  
-- [ ] Staking + rewards  
-- [ ] New IP funded by the treasury  
+- [ ] New IP  
