@@ -14,7 +14,7 @@ One studio. 963 founders.
 
 - **The Founder NFT**, November: 963 pieces. Lifetime access to everything we make. A vote on community and impact decisions.
 - **The egg**, from November: the first mint of our first title, a hand-drawn sci-fi saga. 8,888 intelligent NFTs (iNFTs): AI companions that grow alongside the story. Drawn by hand. Raised by you. The world is revealed at the egg.
-- **Founders first**: First access to the egg and first place in the community betas.
+- **Founders first**: First access to the egg, every drop and every future project. First place in the community betas. A lifetime discount on everything the studio sells.
 
 Named founder. Open books. Audit before mint. No exceptions.
 
