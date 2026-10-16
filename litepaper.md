@@ -13,7 +13,7 @@ View3Labs is a working creative studio that puts real IP on-chain as super intel
 One studio. 963 founders.
 
 - **The Founder NFT**, November: 963 pieces. Lifetime access to everything we make. A vote on community and impact decisions.
-- **The egg**, from November: the first mint of our first title, a hand-drawn sci-fi saga. 8,888 intelligent NFTs (iNFTs): personal AI companions that grow alongside the story in an interactive app. Drawn by hand. Raised by you. The world is revealed at the egg.
+- **The egg**, from November: the first mint of our first title, a hand-drawn sci-fi saga. 8,888 intelligent NFTs (iNFTs): personal AI companions that grow alongside the story in an interactive app. Drawn by hand. Raised by you. The title grows into anime shorts for socials, a premium film series now in development, and brand merch. The world is revealed at the egg.
 - **Founders first**: First access to the egg, every drop and every future project. First place in the community betas. A lifetime discount on everything the studio sells. Founders-only competitions and giveaways, with prizes made by the studio.
 
 Named founder. Open books. Audit before mint. No exceptions.
@@ -34,7 +34,7 @@ We do three things, and we do all three properly: original IP, AI companions, re
 
 The Founder NFT gets you into everything we make. The first thing we make is a hand-drawn sci-fi saga, and it begins with the egg.
 
-8,888 intelligent NFTs, released to collectors first: super intelligent companions that develop alongside a 24-week serialised story. Each one is an evolving character, raised in an interactive app the studio is building alongside the title. Every piece is drawn by our art team. Our AI is trained purely on our own work, so everything it makes is unmistakably ours.
+8,888 intelligent NFTs, released to collectors first: super intelligent companions that develop alongside a 24-week serialised story. Each one is an evolving character, raised in an interactive app the studio is building alongside the title. The title grows beyond the mint: anime shorts for socials, a premium film series now in development, and brand merch made by the studio. Every piece is drawn by our art team. Our AI is trained purely on our own work, so everything it makes is unmistakably ours.
 
 **Drawn by hand. Raised by you.** Each companion hatches from the egg with its own species and personality, then grows with the chapters and the choices you make. It always tells you it is AI, it is built for adults, and your personal memories stay private to you.
 
