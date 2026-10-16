@@ -7,8 +7,8 @@
 
 ## Roles
 - OG / Founder NFT holders get exclusive roles & channels.
-- Contributors may earn additional badges.
+- Contributors may receive additional badges.
 
-## Behavior
+## Behaviour
 - Respect all members.
 - No spam, scams, or self-promotion.

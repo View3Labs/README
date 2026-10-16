@@ -9,11 +9,11 @@ One studio. 963 founders.
 ---
 
 ## ⚠️ Contracts
-**Nothing is deployed yet. No View3Labs contract is live on any chain**, so anything on-chain claiming to be $VIEW3 or the View3Labs Founder NFT today is fake.
+**Nothing is deployed yet. No View3Labs contract is live on any chain**, so anything on-chain claiming to be ours today is fake.
 
 When it is real, here is how you will know:
 
-- The Founder NFT mints on independently audited, battle-tested contracts, and our full mint configuration is published here for anyone to verify before the Genesis mint opens.
+- **An independent audit before anyone sends a penny.** The mint will not open until the contracts have been audited, and the report and our configuration will be published for anyone to verify.
 - The one official contract address is posted in a single channel of our Discord, by the team, nowhere else. The team will never DM you first.
 
 ---
@@ -37,10 +37,10 @@ This repo is public and open for feedback.
 
 ---
 
-## ⚔️ License
+## ⚔️ Licence
 
 - Code: [MIT](LICENSE)  
-- Content (docs, images): © View3Labs – All Rights Reserved  
+- Content (docs, images): © View3Labs, All Rights Reserved  
 
 ---
 

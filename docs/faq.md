@@ -1,4 +1,4 @@
-# View3Labs – Community FAQ 🌱
+# View3Labs: Community FAQ 🌱
 
 Welcome to the View3Labs community!  
 Here are answers to some of the most common questions about our studio and NFTs.
@@ -26,23 +26,16 @@ Its name is held back while we trademark the brand. The title and its world are 
 **What are the 963 Founder NFTs?**  
 A founding membership of the whole studio. Holders get:  
 - Lifetime access to every project we launch  
-- First access to the egg and first place in the community betas  
+- First access to the egg, every drop and every future project. First place in the community betas. A lifetime discount on everything the studio sells  
 - A real vote on community and impact decisions  
 
 **How do the tiers work?**  
 - **Architect (99)**: invited  
-- **Pioneer (264)**: earned in the community, then minted at a discount  
-- **Genesis (600)**: public mint at 0.18 ETH  
+- **Pioneer (264)**: for contributors in the community, then minted  
+- **Genesis (600)**: public mint  
 
 **Do higher tiers get more?**  
-No. Tiers shape access. Every founder gets the same. Contribution is open to every tier, and it is how Pioneer spots are earned.  
-
----
-
-## 💰 $VIEW3
-
-**Is there a token?**  
-Token details are being reviewed and will be published here once approved. Founder NFTs come first.  
+No. Tiers shape access. Every founder gets the same. Contribution is open to every tier, and it is how Pioneer spots are filled.  
 
 ---
 
@@ -64,13 +57,13 @@ Always use our **Website**:
 👉 [Official Links](https://view3labs.com/links)  
 
 **Is there a contract address yet?**  
-**No.** No View3Labs contract is deployed. Anything on-chain claiming to be $VIEW3 or the Founder NFT is fake. The only official address will ever be posted in one Discord channel, by the team, after audit.  
+**No.** No View3Labs contract is deployed. Anything on-chain claiming to be ours today is fake. The only official address will ever be posted in one Discord channel, by the team, once the contracts have been independently audited and the report published.  
 
 **How do I avoid scams?**  
 - The team will never DM you first  
 - Never share your seed phrase or private keys  
 - Only click links from official channels  
-- Bookmark our website links page & ENS domain (`view3labs.eth`)  
+- Bookmark our website links page  
 
 ---
 
@@ -88,7 +81,7 @@ Always use our **Website**:
 
 **How can I join?**  
 - Official links [Website](https://view3labs.com/links)  
-- Join the Discord, verify, and take part. Pioneer spots are earned there  
+- Join the Discord. Read the rules, verify, and find your place. Pioneer spots go to contributors there  
 
 **How can I contribute?**  
 Help us grow the community, share the vision, and spread the word about regenerative Web3.  
