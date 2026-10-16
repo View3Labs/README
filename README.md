@@ -2,7 +2,7 @@
 
 # View3Labs 🌙
 
-**A working creative studio putting hand-drawn IP on-chain as intelligent collectibles, made with the community that grows around it. Built on Ethereum.**
+**A working creative studio putting hand-drawn IP on-chain as intelligent NFT companions, made with the community that grows around it. Built on Ethereum.**
 
 One studio. 963 founders.
 
@@ -14,7 +14,6 @@ One studio. 963 founders.
 When it is real, here is how you will know:
 
 - The Founder NFT mints on independently audited, battle-tested contracts, and our full mint configuration is published here for anyone to verify before the Genesis mint opens.
-- The $VIEW3 token contract follows, with its independent audit report published here before launch.
 - The one official contract address is posted in a single channel of our Discord, by the team, nowhere else. The team will never DM you first.
 
 ---
