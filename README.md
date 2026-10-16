@@ -2,7 +2,7 @@
 
 # View3Labs 🌙
 
-**A working creative studio putting hand-drawn IP on-chain as intelligent NFT companions, made with the community that grows around it. Built on Ethereum.**
+**A working creative studio putting hand-drawn IP on-chain as super intelligent NFTs, made with the community that grows around it. Built on Ethereum.**
 
 One studio. 963 founders.
 

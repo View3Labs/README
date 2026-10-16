@@ -8,7 +8,7 @@
 
 ## In short
 
-View3Labs is a working creative studio that puts real IP on-chain as artificially intelligent NFTs. Creators own the work. The community helps shape it. Everyone grows together.
+View3Labs is a working creative studio that puts real IP on-chain as super intelligent NFTs. Creators own the work. The community helps shape it. Everyone grows together.
 
 One studio. 963 founders.
 
