@@ -58,7 +58,7 @@ Any Pioneer spots still open at the deadline roll into Genesis, so the collectio
 
 **Tiers shape access.** Contribution is open to every tier: quests, content, referrals, moderation, the work that builds this place. It is how Pioneer spots are filled.
 
-Pioneer spots go to contributors in the community during October. The Genesis mint follows in November, once the contracts have been independently audited and the report published. The egg follows, founders first.
+Pioneer spots go to contributors in the community during October. The Genesis mint follows in November on an independently audited contract, with the report and our settings published before it opens. The egg follows, founders first.
 
 ---
 
@@ -79,10 +79,11 @@ The pledge is reported quarterly, with every donation verified. Holders vote on 
 Trust is built in public, and that is where we intend to build it.
 
 - **A named, public founder with a proven record.** Fifteen-plus years building film and animation studios for global brands, the Redmond Prize, the 2026 Bathgate Award and academic AI supervision. Real names and real credentials, all checkable by anyone.
-- **An independent audit before anyone sends a penny.** The mint will not open until the contracts have been audited, and the report and our configuration will be published for anyone to verify.
+- **An independent audit before anyone sends a penny.** The mint runs on Manifold's Creator Core contract, audited by CertiK, [report linked](https://github.com/manifoldxyz/creator-core-solidity/blob/main/audits/certik-final-20230322T163811Z.pdf). Our contract address and mint settings are published before the mint opens.
 - **One official contract address**, posted in one Discord channel, by the team alone.
 - **Locked in by design.** A multisig treasury, so no single person can move funds.
 - **Straight talk.** When something changes, we tell you directly and explain why.
+- **Membership and access, complete.** The Founder NFT is the one thing View3Labs sells, and everything it includes is listed on this page. Every real announcement comes through our official channels. A token carrying the View3Labs name is a fake.
 
 The team will never DM you first and will never ask for a seed phrase or private key. Every official message comes through official channels, and your keys stay with you, always.
 
