@@ -17,7 +17,7 @@ A named founder, real animation craft, and AI trained purely on our own work. Pl
 An intelligent NFT from our first title: a hand-drawn character that hatches from the egg and grows into an AI companion alongside the story. Drawn by hand. Raised by you. It always tells you it is AI, it is built for adults, and your personal memories stay private to you.  
 
 **Why isn't the first title named yet?**  
-Its name is held back while we trademark the brand. The title and its world are revealed when Season Zero begins.  
+Its name is held back while we trademark the brand. The title and its world are revealed at the Founder NFT mint.  
 
 ---
 
@@ -71,8 +71,8 @@ Always use our **Website**:
 
 - ✅ Foundation + strategy locked  
 - 🟨 Go public + Pioneer programme (Oct 2026)  
-- 🟨 Founder NFT mint: 963 (Dec 2026)  
-- ⬜ Season Zero + first title reveal (Q1 2027)  
+- 🟨 Founder NFT mint: 963 + first title reveal (Dec 2026)  
+- ⬜ Season Zero (Q1 2027)  
 - ⬜ Companion app beta, founders first (Q1 2027)  
 - ⬜ The egg 🥚 (Q1 2027)  
 

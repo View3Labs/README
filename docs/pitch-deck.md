@@ -67,8 +67,8 @@ Each Founder NFT grants:
 
 ## 🚀 Launch Timeline
 - Oct 2026	Go public: campaign, Discord, Architect invitations, Pioneer programme  
-- Dec 2026	Founder NFT mint: 963 on Ethereum (Genesis 600)  
-- Q1 2027	Season Zero: first title revealed, week one of twenty-four  
+- Dec 2026	Founder NFT mint: 963 on Ethereum (Genesis 600), first title revealed  
+- Q1 2027	Season Zero: week one of twenty-four  
 - Q1 2027	Companion app beta, founders first  
 - Q1 2027	The egg 🥚: egg mint, founders first  
 - Ongoing	Ecosystem growth + IP/media launches  

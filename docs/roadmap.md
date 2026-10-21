@@ -19,12 +19,12 @@
 ## 🟨 Phase 3: Founder NFT Mint (December 2026)
 - [ ] Independent contract audit, report published  
 - [ ] 963 Founder NFTs mint on Ethereum  
+- [ ] The first title is revealed  
 - [ ] Holder channels + governance unlock  
 
 ---
 
 ## ⬜ Phase 4: Season Zero (Q1 2027)
-- [ ] The first title is revealed  
 - [ ] Season Zero week one of twenty-four  
 - [ ] First regenerative impact donations  
 
