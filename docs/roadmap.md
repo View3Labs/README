@@ -12,28 +12,32 @@
 - [ ] Studio announcement + six-week campaign  
 - [ ] Discord opens: rules, verify, Trust & Security live from day one  
 - [ ] Architect invitations (99 invited, all Architects)  
-- [ ] Pioneer programme: 264 spots for contributors in the community  
+- [ ] Pioneer programme: 264 spots for contributors in the community, October and November  
 
 ---
 
-## 🟨 Phase 3: Founder NFT Mint (November 2026)
+## 🟨 Phase 3: Founder NFT Mint (December 2026)
 - [ ] Independent contract audit, report published  
 - [ ] 963 Founder NFTs mint on Ethereum  
 - [ ] Holder channels + governance unlock  
 
 ---
 
-## 🟨 Phase 4: The Egg 🥚 (Nov–Dec 2026)
+## ⬜ Phase 4: Season Zero (Q1 2027)
 - [ ] The first title is revealed  
-- [ ] Egg mint, founders first: AI companions, drawn by hand and raised by you  
-- [ ] Community beta tests begin  
-- [ ] Season Zero countdown  
+- [ ] Season Zero week one of twenty-four  
+- [ ] First regenerative impact donations  
 
 ---
 
-## ⬜ Phase 5: Season Zero (Q1 2027)
-- [ ] Season Zero week one of twenty-four  
-- [ ] First regenerative impact donations  
+## ⬜ Phase 5: Companion app beta (Q1 2027)
+- [ ] Founders first, before the egg opens  
+
+---
+
+## ⬜ Phase 6: The Egg 🥚 (Q1 2027)
+- [ ] Egg mint, founders first: AI companions, drawn by hand and raised by you  
+- [ ] Companions hatch and grow with the remaining chapters  
 
 ---
 
