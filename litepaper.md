@@ -12,8 +12,8 @@ View3Labs is a working creative studio that puts real IP on-chain as super intel
 
 One studio. 963 founders.
 
-- **The Founder NFT**, November: 963 pieces. Lifetime access to everything we make. A vote on community and impact decisions.
-- **The egg**, from November: the first mint of our first title, a hand-drawn sci-fi saga. 8,888 intelligent NFTs (iNFTs): personal AI companions that grow alongside the story in an interactive app. Drawn by hand. Raised by you. The title grows into anime shorts for socials, a premium film series now in development, and brand merch. The world is revealed at the egg.
+- **The Founder NFT**, December: 963 pieces. Lifetime access to everything we make. A vote on community and impact decisions.
+- **The egg**, Q1 2027: the first mint of our first title, a hand-drawn sci-fi saga. 8,888 intelligent NFTs (iNFTs): personal AI companions that grow alongside the story in an interactive app. Drawn by hand. Raised by you. The title grows into anime shorts for socials, a premium film series now in development, and brand merch. The world is revealed at the Founder NFT mint.
 - **Founders first**: First access to the egg, every drop and every future project. First place in the community betas. A lifetime discount on everything the studio sells. Founders-only competitions and giveaways, with prizes made by the studio.
 
 Named founder. Open books. Audit before mint. No exceptions.
@@ -38,7 +38,7 @@ The Founder NFT gets you into everything we make. The first thing we make is a h
 
 **Drawn by hand. Raised by you.** Each companion hatches from the egg with its own species and personality, then grows with the chapters and the choices you make. It always tells you it is AI, it is built for adults, and your personal memories stay private to you.
 
-The first title and its app run community beta tests before wide release, and the View3Labs community is part of them: early builds, story chapters and the iNFT experience, tested and shaped with holders first. Its name is held back while we trademark the brand. The title and its world are revealed at the egg mint, and founders get first access.
+The first title and its app run community beta tests before wide release, and the View3Labs community is part of them: early builds, story chapters and the iNFT experience, tested and shaped with holders first. Its name is held back while we trademark the brand. The title and its world are revealed at the Founder NFT mint, and founders get first access to the egg.
 
 ---
 
@@ -58,7 +58,7 @@ Any Pioneer spots still open at the deadline roll into Genesis, so the collectio
 
 **Tiers shape access.** Contribution is open to every tier: quests, content, referrals, moderation, the work that builds this place. It is how Pioneer spots are filled.
 
-Pioneer spots go to contributors in the community during October. The Genesis mint follows in November on an independently audited contract, with the report and our settings published before it opens. The egg follows, founders first.
+Pioneer spots go to contributors in the community during October and November. The Genesis mint follows in December on an independently audited contract, with the report and our settings published before it opens. Season Zero follows in the new year, then the egg, founders first.
 
 ---
 
@@ -94,9 +94,10 @@ The team will never DM you first and will never ask for a seed phrase or private
 | Phase | When | What happens |
 | --- | --- | --- |
 | Go public | October 2026 | The studio announces. Discord opens, Architect invitations go out, the Pioneer programme runs |
-| Founder NFT mint | November 2026 | The 963 mint on Ethereum. Holder channels and governance unlock |
-| The egg | November to December 2026 | The first title is revealed. Egg mint, founders first. Community beta tests begin |
+| Founder NFT mint | December 2026 | The 963 mint on Ethereum. The first title is revealed. Holder channels and governance unlock |
 | Season Zero | Q1 2027 | Week one of the twenty-four-week run. First impact donations |
+| Companion app beta | Q1 2027 | Founders first, before the egg opens |
+| The egg | Q1 2027 | Egg mint, founders first. Companions hatch and grow with the remaining chapters |
 | Beyond | 2027 onward | Partnerships, IRL events, merch and phygital, Season One, new IP |
 
 We are at the start of this path. The earlier you are here, the more of the story you help shape.
