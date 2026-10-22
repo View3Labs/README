@@ -34,7 +34,7 @@ We do three things, and we do them with passion: original IP, creative AI story 
 
 The Founder NFT gets you into everything we make. The first thing we make is a hand-drawn sci-fi saga, and it begins with the egg.
 
-8,888 intelligent NFTs, released to collectors first: super intelligent companions that develop alongside a 24-week serialised story. Each one is an evolving character, raised in an interactive app the studio is building alongside the title. The title grows beyond the mint: anime shorts for socials, a short film series now in development, and brand merch made by the studio. Every piece is drawn by our art team. Our AI is trained purely on our own work, so everything it makes is unmistakably ours.
+8,888 intelligent NFTs, released to collectors first: super intelligent companions that develop alongside a 24-week serialised story. Each one is an evolving character, raised in an interactive app the studio is building alongside the title. The title grows beyond the mint: anime shorts for socials, a short film series now in development, and brand merch made by the studio. Every piece is drawn by our art team. Our AI is trained purely on our own work, so everything it makes is ethically ours.
 
 **Drawn by hand. Raised by you.** Each companion hatches from the egg with its own species and personality, then grows with the chapters and the choices you make. It always tells you it is AI, it is built for adults, and your personal memories stay private to you.
 
@@ -79,13 +79,13 @@ The pledge is reported quarterly, with every donation verified. Holders vote on 
 Trust is built in public, and that is where we intend to build it.
 
 - **A named, public founder with a proven record.** Fifteen-plus years building film and animation studios for global brands, the Redmond Prize, the 2026 Bathgate Award and academic AI supervision. Real names and real credentials, all checkable by anyone.
-- **An independent audit before anyone sends a penny.** The mint runs on Manifold's Creator Core contract, audited by CertiK, [report linked](https://github.com/manifoldxyz/creator-core-solidity/blob/main/audits/certik-final-20230322T163811Z.pdf). Our contract address and mint settings are published before the mint opens.
+- **An independent audit before anyone purchases.** The mint runs on Manifold's Creator Core contract, audited by CertiK, [report linked](https://github.com/manifoldxyz/creator-core-solidity/blob/main/audits/certik-final-20230322T163811Z.pdf). Our contract address and mint settings are published before the mint opens.
 - **One official contract address**, posted in one Discord channel, by the team alone.
 - **Locked in by design.** A multisig treasury, so no single person can move funds.
 - **Straight talk.** When something changes, we tell you directly and explain why.
-- **Membership and access, complete.** The Founder NFT is the one thing View3Labs sells, and everything it includes is listed on this page. Every real announcement comes through our official channels. A token carrying the View3Labs name is a fake.
+- **Membership and access, complete.** The Founder NFT is the one thing View3Labs sells, and everything it includes is listed on this page. Every real announcement comes through our official channels. A token carrying the View3Labs name at this stage is a fake.
 
-The team will never DM you first and will never ask for a seed phrase or private key. Every official message comes through official channels, and your keys stay with you, always.
+The team will never DM you first and will never ask for a seed phrase or private key. Every official message comes through official channels, and your keys stay with you.
 
 ---
 
