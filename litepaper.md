@@ -22,7 +22,7 @@ Named founder. Open books. Audit before mint. No exceptions.
 
 ## The studio
 
-View3Labs is a creative studio first and a Web3 project second. We make hand-drawn worlds, characters and stories, and we use on-chain tools to bring the people who love them into the studio.
+View3Labs is a creative studio first and a Web3 project second. We make hand-drawn worlds, characters and stories, and we use on-chain tools to bring the people who believe in them into the studio.
 
 The studio is led by Jamie Burns ([@jamiebxrns](https://x.com/jamiebxrns)): fifteen-plus years building and scaling independent film and animation studios for global brands and leading agencies, now completing a master's in machine learning at Liverpool John Moores University, where he holds the Redmond Prize. The team is hand artists, story developers and AI engineers. View3Labs holds the 2026 Bathgate Award with a development grant and is part of a university start-up programme.
 
