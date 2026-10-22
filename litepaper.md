@@ -34,7 +34,7 @@ We do three things, and we do them with passion: original IP, creative AI story 
 
 The Founder NFT gets you into everything we make. The first thing we make is a hand-drawn sci-fi saga, and it begins with the egg.
 
-8,888 intelligent NFTs, released to collectors first: super intelligent companions that develop alongside a 24-week serialised story. Each one is an evolving character, raised in an interactive app the studio is building alongside the title. The title grows beyond the mint: anime shorts for socials, a short film series now in development, and brand merch made by the studio. Every piece is drawn by our art team. Our AI is trained purely on our own work, so everything it makes is ethically ours.
+8,888 intelligent NFTs, released to collectors first: super intelligent companions that develop alongside a 24-week serialised story. Each one is an evolving character, raised in an interactive app the studio is building alongside the title. The title grows beyond the mint: anime shorts for socials, a short film series now in development, and brand merch made by the studio. Every piece is drawn by our art team. Our AI is trained purely on our own work, so everything it makes is distinctively and ethically ours.
 
 **Drawn by hand. Raised by you.** Each companion hatches from the egg with its own species and personality, then grows with the chapters and the choices you make. It always tells you it is AI, it is built for adults, and your personal memories stay private to you.
 
