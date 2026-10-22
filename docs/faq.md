@@ -42,7 +42,7 @@ No. Tiers shape access. Every founder gets the same. Contribution is open to eve
 ## 🌍 Regenerative Impact
 
 **How does View3Labs support the planet?**  
-We give **10% of net revenue** from merch, licensing, the premium series and royalties to ecological and social causes, rising to 20% once the studio is profitable, with every donation verified.  
+We give **10% of net revenue** from merch, licensing, the short film series and royalties to ecological and social causes, rising to 20% once the studio is profitable, with every donation verified.  
 Holders vote on where funds go.  
 
 **Can I suggest a cause?**  

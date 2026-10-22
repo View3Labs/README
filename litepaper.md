@@ -66,7 +66,7 @@ Pioneer spots go to contributors in the community during October and November. T
 
 **A share of every sale. For ever.**
 
-10% of net revenue from merch, licensing, the premium series and royalties goes to environmental and social projects from day one, rising to 20% once the studio is profitable: biodiversity, climate, conservation, and causes the holders choose.
+10% of net revenue from merch, licensing, the short film series and royalties goes to environmental and social projects from day one, rising to 20% once the studio is profitable: biodiversity, climate, conservation, and causes the holders choose.
 
 Mint proceeds fund production.
 
