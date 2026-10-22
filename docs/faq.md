@@ -70,11 +70,11 @@ Always use our **Website**:
 ## 📅 Roadmap Highlights
 
 - ✅ Foundation + strategy locked  
-- 🟨 Go public + Pioneer programme (Oct 2026)  
-- 🟨 Founder NFT mint: 963 + first title reveal (Dec 2026)  
-- ⬜ Season Zero (Q1 2027)  
-- ⬜ Companion app beta, founders first (Q1 2027)  
-- ⬜ The egg 🥚 (Q1 2027)  
+- 🟨 Go public + Pioneer programme (Jan 2027)  
+- 🟨 Founder NFT mint: 963 + first title reveal (Feb 2027)  
+- ⬜ Season Zero (Q2 2027)  
+- ⬜ Companion app beta, founders first (Q2 2027)  
+- ⬜ The egg 🥚 (Q2 2027)  
 
 ---
 
