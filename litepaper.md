@@ -34,7 +34,7 @@ We do three things, and we do them with passion: original IP, creative AI story 
 
 The Founder NFT gets you into everything we make. The first thing we make is a hand-drawn sci-fi saga, and it begins with the egg.
 
-8,888 intelligent NFTs, released to collectors first: super intelligent companions that develop alongside a 24-week serialised story. Each one is an evolving character, raised in an interactive app the studio is building alongside the title. The title grows beyond the mint: anime shorts for socials, a short film series now in development, and brand merch made by the studio. Every piece is drawn by our art team. Our AI is trained purely on our own work, so everything it makes is unmistakably ours.
+8,888 intelligent NFTs, released to collectors first: super intelligent companions that develop alongside a 24-week serialised story. Each one is an evolving character, raised in an interactive app the studio is building alongside the title. The title grows beyond the mint: anime shorts for socials, a short film series now in development, and brand merch made by the studio. Every piece is drawn by our art team. Our AI is trained purely on our own work, so everything it makes is ethically ours.
 
 **Drawn by hand. Raised by you.** Each companion hatches from the egg with its own species and personality, then grows with the chapters and the choices you make. It always tells you it is AI, it is built for adults, and your personal memories stay private to you.
 
@@ -85,7 +85,7 @@ Trust is built in public, and that is where we intend to build it.
 - **Straight talk.** When something changes, we tell you directly and explain why.
 - **Membership and access, complete.** The Founder NFT is the one thing View3Labs sells, and everything it includes is listed on this page. Every real announcement comes through our official channels. A token carrying the View3Labs name at this stage is a fake.
 
-The team will never DM you first and will never ask for a seed phrase or private key. Every official message comes through official channels, and your keys stay with you, always.
+The team will never DM you first and will never ask for a seed phrase or private key. Every official message comes through official channels.
 
 ---
 
