@@ -13,7 +13,7 @@ View3Labs is a working creative studio that puts real IP on-chain as super intel
 One studio. 963 founders.
 
 - **The Founder NFT**, December: 963 pieces. Lifetime access to everything we make. A vote on community and impact decisions.
-- **The egg**, Q1 2027: the first mint of our first title, a hand-drawn sci-fi saga. 8,888 intelligent NFTs (iNFTs): personal AI companions that grow alongside the story in an interactive app. Drawn by hand. Raised by you. The title grows into anime shorts for socials, a premium film series now in development, and brand merch. The world is revealed at the Founder NFT mint.
+- **The egg**, Q1 2027: the first mint of our first title, a hand-drawn sci-fi saga. 8,888 intelligent NFTs (iNFTs): personal AI companions that grow alongside the story in an interactive app. Drawn by hand. Raised by you. The title grows into anime shorts for socials, a short film series now in development, and brand merch. The world is revealed at the Founder NFT mint.
 - **Founders first**: First access to the egg, every drop and every future project. First place in the community betas. A lifetime discount on everything the studio sells. Founders-only competitions and giveaways, with prizes made by the studio.
 
 Named founder. Open books. Audit before mint. No exceptions.
@@ -24,9 +24,9 @@ Named founder. Open books. Audit before mint. No exceptions.
 
 View3Labs is a creative studio first and a Web3 project second. We make hand-drawn worlds, characters and stories, and we use on-chain tools to bring the people who love them into the studio.
 
-The studio is led by Jamie Burns ([@jamiebxrns](https://x.com/jamiebxrns)): fifteen-plus years building and scaling independent film and animation studios for global brands and leading agencies, now completing a master's in machine learning at Liverpool John Moores University, where he holds the Redmond Prize. The team is hand artists, story developers and AI engineers, with academic AI supervision. View3Labs holds the 2026 Bathgate Award with a development grant and is part of a university start-up programme.
+The studio is led by Jamie Burns ([@jamiebxrns](https://x.com/jamiebxrns)): fifteen-plus years building and scaling independent film and animation studios for global brands and leading agencies, now completing a master's in machine learning at Liverpool John Moores University, where he holds the Redmond Prize. The team is hand artists, story developers and AI engineers. View3Labs holds the 2026 Bathgate Award with a development grant and is part of a university start-up programme.
 
-We do three things, and we do all three properly: original IP, AI companions, regenerative impact. Together they are the foundation.
+We do four things, and we do all four properly: original IP, AI companions, transparency and regenerative impact. Together they are the foundation.
 
 ---
 
@@ -34,7 +34,7 @@ We do three things, and we do all three properly: original IP, AI companions, re
 
 The Founder NFT gets you into everything we make. The first thing we make is a hand-drawn sci-fi saga, and it begins with the egg.
 
-8,888 intelligent NFTs, released to collectors first: super intelligent companions that develop alongside a 24-week serialised story. Each one is an evolving character, raised in an interactive app the studio is building alongside the title. The title grows beyond the mint: anime shorts for socials, a premium film series now in development, and brand merch made by the studio. Every piece is drawn by our art team. Our AI is trained purely on our own work, so everything it makes is unmistakably ours.
+8,888 intelligent NFTs, released to collectors first: super intelligent companions that develop alongside a 24-week serialised story. Each one is an evolving character, raised in an interactive app the studio is building alongside the title. The title grows beyond the mint: anime shorts for socials, a short film series now in development, and brand merch made by the studio. Every piece is drawn by our art team. Our AI is trained purely on our own work, so everything it makes is unmistakably ours.
 
 **Drawn by hand. Raised by you.** Each companion hatches from the egg with its own species and personality, then grows with the chapters and the choices you make. It always tells you it is AI, it is built for adults, and your personal memories stay private to you.
 
