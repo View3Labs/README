@@ -83,7 +83,7 @@ Trust is built in public, and that is where we intend to build it.
 - **One official contract address**, posted in one Discord channel, by the team alone.
 - **Locked in by design.** A multisig treasury, so no single person can move funds.
 - **Straight talk.** When something changes, we tell you directly and explain why.
-- **Membership and access, complete.** The Founder NFT is the one thing View3Labs sells, and everything it includes is listed on this page. Every real announcement comes through our official channels. A token carrying the View3Labs name is a fake.
+- **Membership and access, complete.** The Founder NFT is the one thing View3Labs sells, and everything it includes is listed on this page. Every real announcement comes through our official channels. A token carrying the View3Labs name at this stage is a fake.
 
 The team will never DM you first and will never ask for a seed phrase or private key. Every official message comes through official channels, and your keys stay with you, always.
 

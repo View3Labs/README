@@ -14,7 +14,7 @@ One studio. 963 founders.
 When it is real, here is how you will know:
 
 - **An independent audit before anyone purchases.** The mint runs on Manifold's Creator Core contract, audited by CertiK, [report linked](https://github.com/manifoldxyz/creator-core-solidity/blob/main/audits/certik-final-20230322T163811Z.pdf). Our contract address and mint settings are published before the mint opens.
-- **Membership and access, complete.** The Founder NFT is the one thing View3Labs sells, and everything it includes is set out in the litepaper. Every real announcement comes through our official channels. A token carrying the View3Labs name is a fake.
+- **Membership and access, complete.** The Founder NFT is the one thing View3Labs sells, and everything it includes is set out in the litepaper. Every real announcement comes through our official channels. A token carrying the View3Labs name at this stage is a fake.
 - The one official contract address is posted in a single channel of our Discord, by the team, nowhere else. The team will never DM you first.
 
 ---
