@@ -8,11 +8,11 @@
 
 ---
 
-## 🟨 Phase 2: Go Public (October 2026)
+## 🟨 Phase 2: Go Public (October to November 2026)
 - [ ] Studio announcement + six-week campaign  
 - [ ] Discord opens: rules, verify, Trust & Security live from day one  
 - [ ] Architect invitations (99 invited, all Architects)  
-- [ ] Pioneer programme: 264 spots for contributors in the community, October and November  
+- [ ] Pioneer programme: 264 spots for contributors in the community, November  
 
 ---
 

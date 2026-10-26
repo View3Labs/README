@@ -58,7 +58,7 @@ Any Pioneer spots still open at the deadline roll into Genesis, so the collectio
 
 **Tiers shape access.** Contribution is open to every tier: quests, content, referrals, moderation, the work that builds this place. It is how Pioneer spots are filled.
 
-Pioneer spots go to contributors in the community during October and November. The Genesis mint follows in December on an independently audited contract, with the report and our settings published before it opens. Season Zero follows in the new year, then the egg, founders first.
+Pioneer spots go to contributors in the community during November. The Genesis mint follows in December on an independently audited contract, with the report and our settings published before it opens. Season Zero follows in the new year, then the egg, founders first.
 
 ---
 
@@ -93,7 +93,7 @@ The team will never DM you first and will never ask for a seed phrase or private
 
 | Phase | When | What happens |
 | --- | --- | --- |
-| Go public | October 2026 | The studio announces. Discord opens, Architect invitations go out, the Pioneer programme runs |
+| Go public | October to November 2026 | The studio announces, then the Discord opens, Architect invitations go out and the Pioneer programme runs |
 | Founder NFT mint | December 2026 | The 963 mint on Ethereum. The first title is revealed. Holder channels and governance unlock |
 | Season Zero | Q1 2027 | Week one of the twenty-four-week run. First impact donations |
 | Companion app beta | Q1 2027 | Founders first, before the egg opens |
