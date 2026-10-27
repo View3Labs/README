@@ -71,10 +71,10 @@ Always use our **Website**:
 
 - ✅ Foundation + strategy locked  
 - 🟨 Go public (Oct 2026), Discord and Pioneer programme (Nov 2026)  
-- 🟨 Founder NFT mint: 963 + first title reveal (Dec 2026)  
-- ⬜ Season Zero (Q1 2027)  
-- ⬜ Companion app beta, founders first (Q1 2027)  
-- ⬜ The egg 🥚 (Q1 2027)  
+- 🟨 Founder NFT mint: 963 + first title reveal (Coming soon)  
+- ⬜ Season Zero (After the Founder mint)  
+- ⬜ Companion app beta, founders first (After the Founder mint)  
+- ⬜ The egg 🥚 (After the Founder mint)  
 
 ---
 

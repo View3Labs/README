@@ -12,8 +12,8 @@ View3Labs is a working creative studio that puts real IP on-chain as super intel
 
 One studio. 963 founders.
 
-- **The Founder NFT**, December: 963 pieces. Lifetime access to everything we make. A vote on community and impact decisions.
-- **The egg**, Q1 2027: the first mint of our first title, a hand-drawn sci-fi saga. 8,888 intelligent NFTs (iNFTs): personal AI companions that grow alongside the story in an interactive app. Drawn by hand. Raised by you. The title grows into anime shorts for socials, a short film series now in development, and brand merch. The world is revealed at the Founder NFT mint.
+- **The Founder NFT**, coming soon: 963 pieces. Lifetime access to everything we make. A vote on community and impact decisions.
+- **The egg**, after the Founder mint: the first mint of our first title, a hand-drawn sci-fi saga. 8,888 intelligent NFTs (iNFTs): personal AI companions that grow alongside the story in an interactive app. Drawn by hand. Raised by you. The title grows into anime shorts for socials, a short film series now in development, and brand merch. The world is revealed at the Founder NFT mint.
 - **Founders first**: First access to the egg, every drop and every future project. First place in the community betas. A lifetime discount on everything the studio sells. Founders-only competitions and giveaways, with prizes made by the studio.
 
 Named founder. Open books. Audit before mint. No exceptions.
@@ -58,7 +58,7 @@ Any Pioneer spots still open at the deadline roll into Genesis, so the collectio
 
 **Tiers shape access.** Contribution is open to every tier: quests, content, referrals, moderation, the work that builds this place. It is how Pioneer spots are filled.
 
-Pioneer spots go to contributors in the community during November. The Genesis mint follows in December on an independently audited contract, with the report and our settings published before it opens. Season Zero follows in the new year, then the egg, founders first.
+Pioneer spots go to contributors in the community in the run-up to the mint. The Genesis mint follows on an independently audited contract, with the report and our settings published before it opens. Season Zero follows, then the egg, founders first.
 
 ---
 
@@ -94,11 +94,11 @@ The team will never DM you first and will never ask for a seed phrase or private
 | Phase | When | What happens |
 | --- | --- | --- |
 | Go public | October to November 2026 | The studio announces, then the Discord opens, Architect invitations go out and the Pioneer programme runs |
-| Founder NFT mint | December 2026 | The 963 mint on Ethereum. The first title is revealed. Holder channels and governance unlock |
-| Season Zero | Q1 2027 | Week one of the twenty-four-week run. First impact donations |
-| Companion app beta | Q1 2027 | Founders first, before the egg opens |
-| The egg | Q1 2027 | Egg mint, founders first. Companions hatch and grow with the remaining chapters |
-| Beyond | 2027 onward | Partnerships, IRL events, merch and phygital, Season One, new IP |
+| Founder NFT mint | Coming soon | The 963 mint on Ethereum. The first title is revealed. Holder channels and governance unlock |
+| Season Zero | After the Founder mint | Week one of the twenty-four-week run. First impact donations |
+| Companion app beta | After the Founder mint | Founders first, before the egg opens |
+| The egg | After the Founder mint | Egg mint, founders first. Companions hatch and grow with the remaining chapters |
+| Beyond | Onward | Partnerships, IRL events, merch and phygital, Season One, new IP |
 
 We are at the start of this path. The earlier you are here, the more of the story you help shape.
 
