@@ -78,7 +78,7 @@ The pledge is reported quarterly, with every donation verified. Holders vote on 
 
 Trust is built in public, and that is where we intend to build it.
 
-- **A named, public founder with a proven record.** Fifteen-plus years building film and animation studios for global brands, the Redmond Prize, the 2026 Bathgate Award and academic AI supervision. Real names and real credentials, all checkable by anyone.
+- **A named, public founder with a proven record.** Fifteen-plus years building film and animation studios for global brands, the Redmond Prize, the LJMU Bathgate Award and academic AI supervision. Real names and real credentials, all checkable by anyone.
 - **An independent audit before anyone purchases.** The mint runs on Manifold's Creator Core contract, audited by CertiK, [report linked](https://github.com/manifoldxyz/creator-core-solidity/blob/main/audits/certik-final-20230322T163811Z.pdf). Our contract address and mint settings are published before the mint opens.
 - **One official contract address**, posted in one Discord channel, by the team alone.
 - **Locked in by design.** A multisig treasury, so no single person can move funds.
