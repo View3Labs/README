@@ -46,8 +46,8 @@
 
 | Tier | Supply | Way in |
 | --- | --- | --- |
-| Architect | 99 | Invited |
-| Pioneer | 264 | Contribute, then mint |
+| Architect | 63 | Invited |
+| Pioneer | 300 | Contribute, then mint |
 | Genesis | 600 | Public mint |
 
 Each Founder NFT grants:
