@@ -44,12 +44,12 @@ The first title and its app run community beta tests before wide release, and th
 
 ## The Founder NFT
 
-963 pieces on Ethereum. Lifetime access to the whole studio and everything it makes. Ninety-nine are invited; the rest go to contributors or the public mint.
+963 pieces on Ethereum. Lifetime access to the whole studio and everything it makes. Sixty-three are invited; the rest go to contributors or the public mint.
 
 | Tier | Supply | Way in |
 | --- | --- | --- |
-| Architect | 99 | Invited |
-| Pioneer | 264 | Contribute, then mint |
+| Architect | 63 | Invited |
+| Pioneer | 300 | Contribute, then mint |
 | Genesis | 600 | Public mint |
 
 Any Pioneer spots still open at the deadline roll into Genesis, so the collection is always exactly 963.
@@ -108,7 +108,7 @@ We are at the start of this path. The earlier you are here, the more of the stor
 
 - **Follow @view3labs on X.** Everything is announced there first, then explained in Discord.
 - **Join the Discord.** Read the rules, verify, and find your place. Pioneer spots go to contributors there.
-- **Only 99 pieces are invited**, all Architects. If you believe you belong in that circle, tell us why in Discord.
+- **Only 63 pieces are invited**, all Architects. If you believe you belong in that circle, tell us why in Discord.
 
 Welcome to the studio. Let's build something together that lasts.
 

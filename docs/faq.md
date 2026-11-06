@@ -30,8 +30,8 @@ A founding membership of the whole studio. Holders get:
 - A real vote on community and impact decisions  
 
 **How do the tiers work?**  
-- **Architect (99)**: invited  
-- **Pioneer (264)**: for contributors in the community, then minted  
+- **Architect (63)**: invited  
+- **Pioneer (300)**: for contributors in the community, then minted  
 - **Genesis (600)**: public mint  
 
 **Do higher tiers get more?**  
