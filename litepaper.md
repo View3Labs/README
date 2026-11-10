@@ -2,7 +2,7 @@
 
 **Hand-crafted worlds and stories. Intelligent collectibles. A regenerative ecosystem. Built on Ethereum.**
 
-*September 2026 · view3labs.com · @view3labs*
+*November 2026 · view3labs.com · @view3labs*
 
 ---
 
@@ -93,12 +93,12 @@ The team will never DM you first and will never ask for a seed phrase or private
 
 | Phase | When | What happens |
 | --- | --- | --- |
-| Go public | October to November 2026 | The studio announces, then the Discord opens, Architect invitations go out and the Pioneer programme runs |
+| Go public | From November 2026 | The studio announces, then the Discord opens, Architect invitations go out and the Pioneer programme runs |
 | Founder NFT mint | Coming soon | The 963 mint on Ethereum. The first title is revealed. Holder channels and governance unlock |
 | Season Zero | After the Founder mint | Week one of the twenty-four-week run. First impact donations |
 | Companion app beta | After the Founder mint | Founders first, before the egg opens |
 | The egg | After the Founder mint | Egg mint, founders first. Companions hatch and grow with the remaining chapters |
-| Beyond | Onward | Partnerships, IRL events, merch and phygital, Season One, new IP |
+| Beyond | After Season Zero | Partnerships, IRL events, merch and phygital, Season One, new IP |
 
 We are at the start of this path. The earlier you are here, the more of the story you help shape.
 

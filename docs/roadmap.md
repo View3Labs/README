@@ -1,6 +1,6 @@
 # 🗺 View3Labs Roadmap
 
-## ✅ Phase 1: Foundation (2025 → Sept 2026)
+## ✅ Phase 1: Foundation (2025 → October 2026)
 - [x] Studio + legal structure defined  
 - [x] Litepaper written  
 - [x] Community hub designed  
@@ -8,7 +8,7 @@
 
 ---
 
-## 🟨 Phase 2: Go Public (October to November 2026)
+## 🟨 Phase 2: Go Public (From November 2026)
 - [ ] Studio announcement + six-week campaign  
 - [ ] Discord opens: rules, verify, Trust & Security live from day one  
 - [ ] Architect invitations (63 invited, all Architects)  
@@ -41,7 +41,7 @@
 
 ---
 
-## ⬜ Ongoing: Ecosystem Expansion (Onward)
+## ⬜ Ongoing: Ecosystem Expansion (After Season Zero)
 - [ ] Partnerships, IRL events, merch + phygital drops  
 - [ ] Season One of the first title  
 - [ ] New IP  

@@ -70,7 +70,7 @@ Always use our **Website**:
 ## 📅 Roadmap Highlights
 
 - ✅ Foundation + strategy locked  
-- 🟨 Go public (Oct 2026), Discord and Pioneer programme (Nov 2026)  
+- 🟨 Go public (from November 2026): the Discord, Architect invitations and the Pioneer programme  
 - 🟨 Founder NFT mint: 963 + first title reveal (Coming soon)  
 - ⬜ Season Zero (After the Founder mint)  
 - ⬜ Companion app beta, founders first (After the Founder mint)  
